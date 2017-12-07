@@ -13,6 +13,8 @@ import org.junit.runners.Parameterized.Parameters;
 import java.util.Arrays;
 import java.util.Collection;
 
+import static org.junit.Assert.assertEquals;
+
 @RunWith(Parameterized.class)
 public class EvaluatorTest {
     Queue<String> infixExpression;
@@ -64,6 +66,6 @@ public class EvaluatorTest {
     public void testEvaluate() throws IllegalInfixFormat {
         double result = new Evaluator().evaluate(infixExpression).remove();
 
-        Assert.assertEquals(expectedAnswer, result);
+        assertEquals(expectedAnswer, result, 0);
     }
 }

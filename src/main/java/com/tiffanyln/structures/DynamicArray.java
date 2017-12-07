@@ -1,24 +1,24 @@
 package com.tiffanyln.structures;
 
-import com.oracle.tools.packager.Log;
 import com.tiffanyln.interfaces.Queue;
 import com.tiffanyln.interfaces.Stack;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.util.ArrayList;
+import java.util.Arrays;
+
 
 public class DynamicArray<T> implements Queue<T>, Stack<T> {
     private Logger log = LoggerFactory.getLogger(getClass().getName());
 
     // Dataset
-    private ArrayList<T> list;
+    private Object[] list;
     // Index of first object in structure
     private int startPointer;
     // Index of last object in structure
     private int endPointer;
-
-    private int pointer;
+    private int capacity;
+    private int size;
 
     /**
      * Initializes a DynamicArray with an initial capacity
@@ -35,15 +35,52 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
      *      Initial capacity
      */
     public DynamicArray(int capacity) {
-        list = new ArrayList<>(capacity);
+        list = new Object[capacity];
         // Set to -1 so that the pos will be 0 on the first push/add
         startPointer = -1;
         endPointer = -1;
+        this.capacity = capacity;
     }
 
     public DynamicArray(T[] array) {
         this(array.length);
 
+    }
+
+    /**
+     * Get the object at the position given
+     * @param position
+     * @return the object at the given position
+     */
+    public T get(int position) {
+        return (T) list[position];
+    }
+
+    /**
+     * Remove an object at the given positon and remove it
+     *
+     * @param position
+     *      of the object to remove in the list
+     * @return the element removed
+     */
+    public T remove(int position) {
+        T obj = get(position);
+        Object[] newList = new Object[capacity];
+        int j = 0;
+
+        // Make a copy of the array without the element at the
+        // given position
+        for (int i = 0; i < size(); i++) {
+            // Only add if it's not the element we want to remove
+            if (i != position) {
+                newList[j++] = get(i);
+            }
+        }
+
+        // Assign list to the updated copy
+        list = Arrays.copyOf(newList, capacity);
+
+        return obj;
     }
 
     /**
@@ -54,7 +91,9 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
     @Override
     public void push(T obj) {
         if (obj != null) {
-            list.add(++startPointer, obj);
+            if (startPointer < capacity) {
+                list[++startPointer] = obj;
+            }
         }
     }
 
@@ -66,8 +105,8 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
     @Override
     public T pop() {
         if (startPointer != -1) {
-            T obj = list.get(startPointer);
-            list.remove(startPointer--);
+            T obj = get(startPointer);
+            remove(startPointer--);
             return obj;
         }
         return null;
@@ -81,7 +120,7 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
     @Override
     public T peek() {
         if (startPointer != -1) {
-            return list.get(startPointer);
+            return get(startPointer);
         }
 
         return null;
@@ -95,7 +134,9 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
     @Override
     public void add(T obj) {
         if (obj != null) {
-            list.add(++endPointer, obj);
+            if (endPointer < capacity) {
+                list[++endPointer] = obj;
+            }
         }
 
         log.debug("Push failed, obj is null");
@@ -112,8 +153,8 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
             return null;
         } else {
             // Get next item and remove it from list
-            T obj = list.get(startPointer + 1);
-            list.remove(startPointer);
+            T obj = get(startPointer + 1);
+            remove(startPointer);
 
             // Set pointers to accommodate new size
             startPointer--;
@@ -130,7 +171,7 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
      */
     @Override
     public T element() {
-        return startPointer==endPointer? null: list.get(startPointer + 1);
+        return startPointer == endPointer? null: get(startPointer + 1);
     }
 
     /**
@@ -140,7 +181,7 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
      */
     @Override
     public int size() {
-        return list.size();
+        return list.length;
     }
 
     @Override

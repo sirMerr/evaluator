@@ -8,7 +8,7 @@ public class IllegalInfixFormat extends Exception {
      * call to {@link #initCause}.
      */
     public IllegalInfixFormat() {
-        super("The infix queue is not properly formatted");
+        this("The infix queue is not properly formatted");
     }
 
     /**

@@ -1,5 +1,6 @@
 package com.tiffanyln.evaluator;
 
+import com.tiffanyln.exceptions.IllegalInfixFormat;
 import com.tiffanyln.interfaces.Queue;
 import com.tiffanyln.interfaces.Stack;
 import com.tiffanyln.structures.DynamicArray;
@@ -15,14 +16,23 @@ import org.slf4j.LoggerFactory;
 public class Evaluator {
     private Logger log = LoggerFactory.getLogger(getClass().getName());
 
-    // The input to the evaluator is a queue containing
-    // the infix expression and the output is a queue with
-    // the result as the only entry.
-    private Stack<String> stack;
+    // Stack which contains the operators
+    private Stack<String> operators;
+    // Infix expression converted to postfix
     private Queue<String> postfix;
 
     // Precedence of next value in the infix
     private int precedence;
+
+    // Counter for operators. Technically every odd position in infix = operator
+    private int operatorCount;
+    // Counter for operands (quantities). It should have 1 more than operators.
+    // Technically, every even position in infix = operand
+    private int operandCount;
+
+    // Counter for open and parenthesis (should be equal or else invalid)
+    private int openParenthesisCount;
+    private int closedParenthesisCount;
 
     // True if the last string in the infix expression was an operand.
     private boolean lastIsOperand;
@@ -33,12 +43,58 @@ public class Evaluator {
     private static final int HIGH_PRECEDENCE = 2;
 
     public Evaluator() {
+        log.debug("In Evaluator constructor");
         this.precedence = NO_PRECENDENCE;
         this.lastIsOperand = false;
+        this.operandCount = 0;
+        this.operatorCount = 0;
+        this.openParenthesisCount = 0;
+        this.closedParenthesisCount = 0;
     }
 
-    public Queue<Double> evaluate(Queue<String> infixExpression) {
+    /**
+     * Convert to postfix and calculate the answer. The input is
+     * @param infixExpression
+     *      A Queue containing the infix expression
+     * @return Queue<Double>
+     *      A Queue with the result as the only entry
+     * @throws IllegalInfixFormat
+     */
+    public Queue<Double> evaluate(Queue<String> infixExpression) throws IllegalInfixFormat {
+        log.debug("In evaluate");
+
+        // Check infix format is alright
+        if (infixExpression == null) {
+            throw new IllegalInfixFormat();
+        }
+        int size = infixExpression.size();
+        // Infix in postfix
+        postfix = new DynamicArray<>(size);
+        // Stack which contains operators
+        operators = new DynamicArray<>(size);
+
+        for (int i = 0; i < size; i++) {
+            String symbol = infixExpression.remove();
+            log.debug("Symbol value: " + symbol);
+
+            switch (symbol) {
+
+            }
+
+        }
+
         return new DynamicArray<>();
+    }
+
+    /**
+     * Checks if there are as many open parenthesis as there are
+     * open parenthesis
+     *
+     * @return true if valid, false if not
+     */
+    private boolean validParenthesis() {
+        log.debug("In validParenthesis");
+        return openParenthesisCount == closedParenthesisCount;
     }
 
     /**

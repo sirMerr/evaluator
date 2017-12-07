@@ -38,13 +38,13 @@ public class Evaluator {
     private boolean lastIsOperand;
 
     // The higher the precedence, the higher the priority
-    private static final int NO_PRECENDENCE = 0;
+    private static final int DEFAULT_PRECEDENCE = 0;
     private static final int LOW_PRECEDENCE = 1;
     private static final int HIGH_PRECEDENCE = 2;
 
     public Evaluator() {
         log.debug("In Evaluator constructor");
-        this.precedence = NO_PRECENDENCE;
+        this.precedence = DEFAULT_PRECEDENCE;
         this.lastIsOperand = false;
         this.operandCount = 0;
         this.operatorCount = 0;
@@ -78,7 +78,38 @@ public class Evaluator {
             log.debug("Symbol value: " + symbol);
 
             switch (symbol) {
+                case "(":
+                    openParenthesisCount++;
+                    break;
+                case ")":
+                    closedParenthesisCount++;
 
+                    // Remove all operators from stack
+                    // and add to postfix expression
+                    for (int j = 0; j < operators.size(); j++) {
+                        postfix.add(operators.pop());
+                    }
+                    break;
+                case "+":
+                case "-":
+                    if (!lastIsOperand) {
+                        throw  new IllegalInfixFormat("There should be an operand before this operator, this order is invalid.");
+                    }
+                    // Represents that this is an operator
+                    lastIsOperand = false;
+
+                    precedence = LOW_PRECEDENCE; // 0
+                    // @todo ???
+                    operatorCount++;
+                    break;
+                case "*":
+                case "/":
+                    precedence = HIGH_PRECEDENCE;
+                    break;
+                default:
+                    // This is an operand
+                    precedence = DEFAULT_PRECEDENCE;
+                    break;
             }
 
         }

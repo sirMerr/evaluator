@@ -47,41 +47,53 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
     }
 
     /**
-     * Adds member to the end
-     *
-     * @param obj
-     */
-    @Override
-    public void add(T obj) {
-    }
-
-    /**
-     * Removes from front
-     *
-     * @return T object
-     */
-    @Override
-    public T remove() {
-        return null;
-    }
-
-    /**
-     * Peek at front
-     *
-     * @return
-     */
-    @Override
-    public T element() {
-        return null;
-    }
-
-    /**
-     * Adds member to the current end of the stack
+     * Adds member to the end of stack
      *
      * @param obj
      */
     @Override
     public void push(T obj) {
+        if (obj != null) {
+            list.add(++startPointer, obj);
+        }
+    }
+
+    /**
+     * Removes from front of stack
+     *
+     * @return T object
+     */
+    @Override
+    public T pop() {
+        if (startPointer != -1) {
+            T obj = list.get(startPointer);
+            list.remove(startPointer--);
+            return obj;
+        }
+        return null;
+    }
+
+    /**
+     * Peek at front of stack
+     *
+     * @return
+     */
+    @Override
+    public T peek() {
+        if (startPointer != -1) {
+            return list.get(startPointer);
+        }
+
+        return null;
+    }
+
+    /**
+     * Adds member to the current end of the queue
+     *
+     * @param obj
+     */
+    @Override
+    public void add(T obj) {
         if (obj != null) {
             list.add(++endPointer, obj);
         }
@@ -90,12 +102,12 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
     }
 
     /**
-     * Removes the last member added
+     * Removes the last member added of queue
      *
      * @return T object
      */
     @Override
-    public T pop() {
+    public T remove() {
         if (startPointer == endPointer) {
             return null;
         } else {
@@ -117,7 +129,7 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
      *      if the Queue is empty
      */
     @Override
-    public T peek() {
+    public T element() {
         return startPointer==endPointer? null: list.get(startPointer + 1);
     }
 

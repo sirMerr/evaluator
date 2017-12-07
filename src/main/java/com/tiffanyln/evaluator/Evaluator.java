@@ -2,6 +2,7 @@ package com.tiffanyln.evaluator;
 
 import com.tiffanyln.interfaces.Queue;
 import com.tiffanyln.interfaces.Stack;
+import com.tiffanyln.structures.DynamicArray;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -34,6 +35,10 @@ public class Evaluator {
     public Evaluator() {
         this.precedence = NO_PRECENDENCE;
         this.lastIsOperand = false;
+    }
+
+    public Queue<Double> evaluate(Queue<String> infixExpression) {
+        return new DynamicArray<>();
     }
 
     /**

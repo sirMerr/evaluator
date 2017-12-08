@@ -157,9 +157,15 @@ public class Evaluator {
         Stack<String> operands = new DynamicArray<>();
         Queue<String> microExpression = new DynamicArray();
 
-//        for (int i = 0; i < postfix.size(); i++) {
-//            while (postfix.element())
-//        }
+        for (int i = 0; i < postfix.size(); i++) {
+            while (isDouble(postfix.element())) {
+                // Loop and push until NaN is found
+                operands.push(postfix.remove());
+            }
+
+            // 12+
+
+        }
 
         return new DynamicArray<>();
     }

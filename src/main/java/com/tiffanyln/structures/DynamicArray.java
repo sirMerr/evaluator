@@ -55,12 +55,13 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
             }
         }
     }
+
     /**
      * Get the object at the position given
      * @param position
      * @return the object at the given position
      */
-    public T get(int position) {
+    private T get(int position) {
 //        log.debug("In get() : positon ->" + position);
 //        log.debug("Got: " + (T) list[position]);
         return (T) list[position];
@@ -73,7 +74,7 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
      *      of the object to remove in the list
      * @return the element removed
      */
-    public T remove(int position) {
+    private T remove(int position) {
         log.debug("In remove(int positon): position ->" + position);
         T obj = get(position);
         Object[] newList = new Object[capacity];

@@ -1,0 +1,302 @@
+[DEBUG] 2017-12-08 01:56:25.494 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 01:56:25.497 [main] DynamicArray - In add(): obj -> 1
+[DEBUG] 2017-12-08 01:56:25.497 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.497 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.497 [main] DynamicArray - In add(): obj -> +
+[DEBUG] 2017-12-08 01:56:25.497 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.497 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.498 [main] DynamicArray - In add(): obj -> 1
+[DEBUG] 2017-12-08 01:56:25.498 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.498 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.498 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 01:56:25.499 [main] DynamicArray - In add(): obj -> 2
+[DEBUG] 2017-12-08 01:56:25.499 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.499 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.499 [main] DynamicArray - In add(): obj -> -
+[DEBUG] 2017-12-08 01:56:25.499 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.499 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.499 [main] DynamicArray - In add(): obj -> 1
+[DEBUG] 2017-12-08 01:56:25.499 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.499 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.499 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 01:56:25.500 [main] DynamicArray - In add(): obj -> 10
+[DEBUG] 2017-12-08 01:56:25.500 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.501 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.501 [main] DynamicArray - In add(): obj -> *
+[DEBUG] 2017-12-08 01:56:25.501 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.501 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.501 [main] DynamicArray - In add(): obj -> 40
+[DEBUG] 2017-12-08 01:56:25.501 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.501 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.502 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 01:56:25.502 [main] DynamicArray - In add(): obj -> 55
+[DEBUG] 2017-12-08 01:56:25.502 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.502 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.502 [main] DynamicArray - In add(): obj -> /
+[DEBUG] 2017-12-08 01:56:25.502 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.502 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.502 [main] DynamicArray - In add(): obj -> 11
+[DEBUG] 2017-12-08 01:56:25.502 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.502 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.502 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 01:56:25.502 [main] DynamicArray - In add(): obj -> -1
+[DEBUG] 2017-12-08 01:56:25.503 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.503 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.503 [main] DynamicArray - In add(): obj -> +
+[DEBUG] 2017-12-08 01:56:25.503 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.503 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.503 [main] DynamicArray - In add(): obj -> -5
+[DEBUG] 2017-12-08 01:56:25.503 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.503 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.503 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 01:56:25.503 [main] DynamicArray - In add(): obj -> -1
+[DEBUG] 2017-12-08 01:56:25.503 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.504 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.504 [main] DynamicArray - In add(): obj -> +
+[DEBUG] 2017-12-08 01:56:25.504 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.504 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.504 [main] DynamicArray - In add(): obj -> 10
+[DEBUG] 2017-12-08 01:56:25.504 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.504 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.504 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 01:56:25.504 [main] DynamicArray - In add(): obj -> 1
+[DEBUG] 2017-12-08 01:56:25.504 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.504 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.505 [main] DynamicArray - In add(): obj -> +
+[DEBUG] 2017-12-08 01:56:25.505 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.505 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.505 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 01:56:25.505 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.505 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.505 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 01:56:25.505 [main] DynamicArray - In add(): obj -> 2
+[DEBUG] 2017-12-08 01:56:25.505 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.505 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.505 [main] DynamicArray - In add(): obj -> -
+[DEBUG] 2017-12-08 01:56:25.505 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.505 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.506 [main] DynamicArray - In add(): obj -> 1
+[DEBUG] 2017-12-08 01:56:25.506 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.506 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.506 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 01:56:25.506 [main] DynamicArray - In add(): obj -> 10
+[DEBUG] 2017-12-08 01:56:25.506 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.506 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.506 [main] DynamicArray - In add(): obj -> *
+[DEBUG] 2017-12-08 01:56:25.506 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.506 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.506 [main] DynamicArray - In add(): obj -> 40
+[DEBUG] 2017-12-08 01:56:25.506 [main] DynamicArray - Size is beyond capacity in add, incrementing capacity...
+[DEBUG] 2017-12-08 01:56:25.506 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.507 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 01:56:25.507 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.507 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.508 [main] DynamicArray - Got: 1
+[DEBUG] 2017-12-08 01:56:25.508 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.508 [main] DynamicArray - In get() : positon ->1
+[DEBUG] 2017-12-08 01:56:25.508 [main] DynamicArray - Got: +
+[DEBUG] 2017-12-08 01:56:25.508 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.508 [main] DynamicArray - In get() : positon ->2
+[DEBUG] 2017-12-08 01:56:25.508 [main] DynamicArray - Got: 3
+[DEBUG] 2017-12-08 01:56:25.508 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.509 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 01:56:25.509 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.509 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.509 [main] DynamicArray - Got: 2
+[DEBUG] 2017-12-08 01:56:25.509 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.509 [main] DynamicArray - In get() : positon ->1
+[DEBUG] 2017-12-08 01:56:25.509 [main] DynamicArray - Got: -
+[DEBUG] 2017-12-08 01:56:25.510 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.510 [main] DynamicArray - In get() : positon ->2
+[DEBUG] 2017-12-08 01:56:25.510 [main] DynamicArray - Got: 1
+[DEBUG] 2017-12-08 01:56:25.510 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.510 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 01:56:25.510 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.510 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.510 [main] DynamicArray - Got: 10
+[DEBUG] 2017-12-08 01:56:25.510 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.510 [main] DynamicArray - In get() : positon ->1
+[DEBUG] 2017-12-08 01:56:25.510 [main] DynamicArray - Got: *
+[DEBUG] 2017-12-08 01:56:25.510 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.510 [main] DynamicArray - In get() : positon ->2
+[DEBUG] 2017-12-08 01:56:25.511 [main] DynamicArray - Got: 40
+[DEBUG] 2017-12-08 01:56:25.511 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.532 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 01:56:25.532 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 01:56:25.532 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 01:56:25.532 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.533 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.533 [main] DynamicArray - Got: 1
+[DEBUG] 2017-12-08 01:56:25.533 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.533 [main] DynamicArray - In get() : positon ->1
+[DEBUG] 2017-12-08 01:56:25.533 [main] DynamicArray - Got: +
+[DEBUG] 2017-12-08 01:56:25.533 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.533 [main] DynamicArray - In get() : positon ->2
+[DEBUG] 2017-12-08 01:56:25.533 [main] DynamicArray - Got: 3
+[DEBUG] 2017-12-08 01:56:25.533 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.533 [main] Evaluator - Infix Expression: 1+3
+[DEBUG] 2017-12-08 01:56:25.533 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.533 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 01:56:25.533 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 01:56:25.533 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 01:56:25.534 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.534 [main] DynamicArray - Got: 1
+[DEBUG] 2017-12-08 01:56:25.534 [main] DynamicArray - In remove(int positon): position ->0
+[DEBUG] 2017-12-08 01:56:25.534 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.534 [main] DynamicArray - Got: 1
+[DEBUG] 2017-12-08 01:56:25.534 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.534 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.534 [main] DynamicArray - index of item: 1
+[DEBUG] 2017-12-08 01:56:25.534 [main] DynamicArray - In get() : positon ->1
+[DEBUG] 2017-12-08 01:56:25.534 [main] DynamicArray - Got: +
+[DEBUG] 2017-12-08 01:56:25.534 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.534 [main] DynamicArray - index of item: 2
+[DEBUG] 2017-12-08 01:56:25.535 [main] DynamicArray - In get() : positon ->2
+[DEBUG] 2017-12-08 01:56:25.535 [main] DynamicArray - Got: 3
+[DEBUG] 2017-12-08 01:56:25.535 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.535 [main] DynamicArray - Removed: 1
+[DEBUG] 2017-12-08 01:56:25.535 [main] DynamicArray - Removed(): 1
+[DEBUG] 2017-12-08 01:56:25.535 [main] Evaluator - Symbol value: 1
+[DEBUG] 2017-12-08 01:56:25.535 [main] Evaluator - In pushOperator
+[DEBUG] 2017-12-08 01:56:25.535 [main] DynamicArray - In add(): obj -> 1.0
+[DEBUG] 2017-12-08 01:56:25.535 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.535 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 01:56:25.536 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.536 [main] DynamicArray - Got: +
+[DEBUG] 2017-12-08 01:56:25.536 [main] DynamicArray - In remove(int positon): position ->0
+[DEBUG] 2017-12-08 01:56:25.536 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.536 [main] DynamicArray - Got: +
+[DEBUG] 2017-12-08 01:56:25.536 [main] DynamicArray - In size(): size is 2
+[DEBUG] 2017-12-08 01:56:25.536 [main] DynamicArray - In size(): size is 2
+[DEBUG] 2017-12-08 01:56:25.536 [main] DynamicArray - index of item: 1
+[DEBUG] 2017-12-08 01:56:25.536 [main] DynamicArray - In get() : positon ->1
+[DEBUG] 2017-12-08 01:56:25.537 [main] DynamicArray - Got: 3
+[DEBUG] 2017-12-08 01:56:25.537 [main] DynamicArray - In size(): size is 2
+[DEBUG] 2017-12-08 01:56:25.537 [main] DynamicArray - Removed: +
+[DEBUG] 2017-12-08 01:56:25.537 [main] DynamicArray - Removed(): +
+[DEBUG] 2017-12-08 01:56:25.537 [main] Evaluator - Symbol value: +
+[DEBUG] 2017-12-08 01:56:25.543 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 01:56:25.543 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 01:56:25.543 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 01:56:25.543 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.543 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.543 [main] DynamicArray - Got: 2
+[DEBUG] 2017-12-08 01:56:25.543 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.543 [main] DynamicArray - In get() : positon ->1
+[DEBUG] 2017-12-08 01:56:25.543 [main] DynamicArray - Got: -
+[DEBUG] 2017-12-08 01:56:25.545 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.545 [main] DynamicArray - In get() : positon ->2
+[DEBUG] 2017-12-08 01:56:25.545 [main] DynamicArray - Got: 1
+[DEBUG] 2017-12-08 01:56:25.545 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.545 [main] Evaluator - Infix Expression: 2-1
+[DEBUG] 2017-12-08 01:56:25.545 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.546 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 01:56:25.546 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 01:56:25.546 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 01:56:25.546 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.546 [main] DynamicArray - Got: 2
+[DEBUG] 2017-12-08 01:56:25.546 [main] DynamicArray - In remove(int positon): position ->0
+[DEBUG] 2017-12-08 01:56:25.546 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.546 [main] DynamicArray - Got: 2
+[DEBUG] 2017-12-08 01:56:25.546 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.547 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.547 [main] DynamicArray - index of item: 1
+[DEBUG] 2017-12-08 01:56:25.547 [main] DynamicArray - In get() : positon ->1
+[DEBUG] 2017-12-08 01:56:25.547 [main] DynamicArray - Got: -
+[DEBUG] 2017-12-08 01:56:25.547 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.547 [main] DynamicArray - index of item: 2
+[DEBUG] 2017-12-08 01:56:25.547 [main] DynamicArray - In get() : positon ->2
+[DEBUG] 2017-12-08 01:56:25.547 [main] DynamicArray - Got: 1
+[DEBUG] 2017-12-08 01:56:25.547 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.547 [main] DynamicArray - Removed: 2
+[DEBUG] 2017-12-08 01:56:25.547 [main] DynamicArray - Removed(): 2
+[DEBUG] 2017-12-08 01:56:25.547 [main] Evaluator - Symbol value: 2
+[DEBUG] 2017-12-08 01:56:25.548 [main] Evaluator - In pushOperator
+[DEBUG] 2017-12-08 01:56:25.548 [main] DynamicArray - In add(): obj -> 2.0
+[DEBUG] 2017-12-08 01:56:25.548 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.548 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 01:56:25.548 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.548 [main] DynamicArray - Got: -
+[DEBUG] 2017-12-08 01:56:25.548 [main] DynamicArray - In remove(int positon): position ->0
+[DEBUG] 2017-12-08 01:56:25.548 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.548 [main] DynamicArray - Got: -
+[DEBUG] 2017-12-08 01:56:25.548 [main] DynamicArray - In size(): size is 2
+[DEBUG] 2017-12-08 01:56:25.548 [main] DynamicArray - In size(): size is 2
+[DEBUG] 2017-12-08 01:56:25.548 [main] DynamicArray - index of item: 1
+[DEBUG] 2017-12-08 01:56:25.548 [main] DynamicArray - In get() : positon ->1
+[DEBUG] 2017-12-08 01:56:25.548 [main] DynamicArray - Got: 1
+[DEBUG] 2017-12-08 01:56:25.548 [main] DynamicArray - In size(): size is 2
+[DEBUG] 2017-12-08 01:56:25.548 [main] DynamicArray - Removed: -
+[DEBUG] 2017-12-08 01:56:25.548 [main] DynamicArray - Removed(): -
+[DEBUG] 2017-12-08 01:56:25.549 [main] Evaluator - Symbol value: -
+[DEBUG] 2017-12-08 01:56:25.550 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 01:56:25.550 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 01:56:25.550 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 01:56:25.550 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.550 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.550 [main] DynamicArray - Got: 10
+[DEBUG] 2017-12-08 01:56:25.550 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.550 [main] DynamicArray - In get() : positon ->1
+[DEBUG] 2017-12-08 01:56:25.550 [main] DynamicArray - Got: *
+[DEBUG] 2017-12-08 01:56:25.550 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.550 [main] DynamicArray - In get() : positon ->2
+[DEBUG] 2017-12-08 01:56:25.550 [main] DynamicArray - Got: 40
+[DEBUG] 2017-12-08 01:56:25.550 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.550 [main] Evaluator - Infix Expression: 10*40
+[DEBUG] 2017-12-08 01:56:25.550 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.550 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 01:56:25.551 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 01:56:25.551 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 01:56:25.551 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.551 [main] DynamicArray - Got: 10
+[DEBUG] 2017-12-08 01:56:25.551 [main] DynamicArray - In remove(int positon): position ->0
+[DEBUG] 2017-12-08 01:56:25.551 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.551 [main] DynamicArray - Got: 10
+[DEBUG] 2017-12-08 01:56:25.551 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.551 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.552 [main] DynamicArray - index of item: 1
+[DEBUG] 2017-12-08 01:56:25.552 [main] DynamicArray - In get() : positon ->1
+[DEBUG] 2017-12-08 01:56:25.552 [main] DynamicArray - Got: *
+[DEBUG] 2017-12-08 01:56:25.552 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.552 [main] DynamicArray - index of item: 2
+[DEBUG] 2017-12-08 01:56:25.552 [main] DynamicArray - In get() : positon ->2
+[DEBUG] 2017-12-08 01:56:25.552 [main] DynamicArray - Got: 40
+[DEBUG] 2017-12-08 01:56:25.552 [main] DynamicArray - In size(): size is 3
+[DEBUG] 2017-12-08 01:56:25.553 [main] DynamicArray - Removed: 10
+[DEBUG] 2017-12-08 01:56:25.553 [main] DynamicArray - Removed(): 10
+[DEBUG] 2017-12-08 01:56:25.553 [main] Evaluator - Symbol value: 10
+[DEBUG] 2017-12-08 01:56:25.553 [main] Evaluator - In pushOperator
+[DEBUG] 2017-12-08 01:56:25.553 [main] DynamicArray - In add(): obj -> 10.0
+[DEBUG] 2017-12-08 01:56:25.553 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.553 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 01:56:25.553 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.553 [main] DynamicArray - Got: *
+[DEBUG] 2017-12-08 01:56:25.553 [main] DynamicArray - In remove(int positon): position ->0
+[DEBUG] 2017-12-08 01:56:25.553 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.553 [main] DynamicArray - Got: *
+[DEBUG] 2017-12-08 01:56:25.553 [main] DynamicArray - In size(): size is 2
+[DEBUG] 2017-12-08 01:56:25.553 [main] DynamicArray - In size(): size is 2
+[DEBUG] 2017-12-08 01:56:25.554 [main] DynamicArray - index of item: 1
+[DEBUG] 2017-12-08 01:56:25.554 [main] DynamicArray - In get() : positon ->1
+[DEBUG] 2017-12-08 01:56:25.554 [main] DynamicArray - Got: 40
+[DEBUG] 2017-12-08 01:56:25.554 [main] DynamicArray - In size(): size is 2
+[DEBUG] 2017-12-08 01:56:25.554 [main] DynamicArray - Removed: *
+[DEBUG] 2017-12-08 01:56:25.554 [main] DynamicArray - Removed(): *
+[DEBUG] 2017-12-08 01:56:25.554 [main] Evaluator - Symbol value: *
+[DEBUG] 2017-12-08 01:56:25.554 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 01:56:25.554 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.554 [main] DynamicArray - Got: 40
+[DEBUG] 2017-12-08 01:56:25.554 [main] DynamicArray - In remove(int positon): position ->0
+[DEBUG] 2017-12-08 01:56:25.554 [main] DynamicArray - In get() : positon ->0
+[DEBUG] 2017-12-08 01:56:25.554 [main] DynamicArray - Got: 40
+[DEBUG] 2017-12-08 01:56:25.554 [main] DynamicArray - In size(): size is 1
+[DEBUG] 2017-12-08 01:56:25.554 [main] DynamicArray - In size(): size is 1
+[DEBUG] 2017-12-08 01:56:25.554 [main] DynamicArray - Removed: 40
+[DEBUG] 2017-12-08 01:56:25.555 [main] DynamicArray - Removed(): 40
+[DEBUG] 2017-12-08 01:56:25.555 [main] Evaluator - Symbol value: 40
+[DEBUG] 2017-12-08 01:56:25.555 [main] Evaluator - In pushOperator
+[DEBUG] 2017-12-08 01:56:25.555 [main] DynamicArray - In add(): obj -> 40.0
+[DEBUG] 2017-12-08 01:56:25.555 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 01:56:25.555 [main] Evaluator - Default return DynamicArray<>()
+[DEBUG] 2017-12-08 01:56:25.555 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 01:56:25.555 [main] DynamicArray - In remove()

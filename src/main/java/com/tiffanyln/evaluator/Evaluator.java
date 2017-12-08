@@ -187,7 +187,7 @@ public class Evaluator {
      */
     private void pushLowPrecedenceOperator(String newOperator) {
         log.debug("In pushLowPrecedenceOperator()");
-        
+
         for (int i = 0; i < operators.size(); i++) {
             postfix.add(operators.pop());
         }

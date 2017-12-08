@@ -20,39 +20,41 @@ public class EvaluatorTest {
 
     @Parameters(name = "{index} plan[{0} = {1}]")
     public static Collection<Object[]> data() {
-        /* Basic Arithmetic */
-        Queue<String> e1 = new DynamicArray<>();
-        e1.add("1");
-        e1.add("+");
-        e1.add("1");
-        double a1 = 2;
-
-        Queue<String> e2 = new DynamicArray<>();
-        e2.add("2");
-        e2.add("-");
-        e2.add("1");
-        double a2 = 1;
-
-        Queue<String> e3 = new DynamicArray<>();
-        e3.add("10");
-        e3.add("*");
-        e3.add("40");
-        double a3 = 400;
-
-        Queue<String> e4 = new DynamicArray<>();
-        e4.add("55");
-        e4.add("/");
-        e4.add("11");
-        double a4 = 5;
-
-        /* @todo Multiplication/Division with 0 */
-
-        /* @todo Parenthesis */
-
-        return Arrays.asList(new Object[][] {
-                {e1, a1}, {e2, a2},
-                {e3, a3}, {e4, a4}
-        });
+        return Arrays.asList(
+                /* Basic Arithmetic */
+                makeTestInfix(new String[]{"1", "+", "3"}, 2),
+                makeTestInfix(new String[]{"1", "+", "-3"}, -2),
+                makeTestInfix(new String[]{"-1", "+", "3"},2),
+                makeTestInfix(new String[]{"+1", "+", "3"}, 4),
+                makeTestInfix(new String[]{"+1", "+", "+3"}, 4),
+                makeTestInfix(new String[]{"+1", "+", "3"},2),
+                makeTestInfix(new String[]{"-400", "+", "-1"}, -401),
+                makeTestInfix(new String[]{"1", "-", "3"}, -2),
+                makeTestInfix(new String[]{"1", "-", "-3"}, 4),
+                makeTestInfix(new String[]{"-1", "-", "3"},-4),
+                makeTestInfix(new String[]{"-400", "-", "-1"}, -399),
+                makeTestInfix(new String[]{"3", "*", "3"}, 9),
+                makeTestInfix(new String[]{"5", "*", "-3"}, -15),
+                makeTestInfix(new String[]{"-23", "*", "3"},-69),
+                makeTestInfix(new String[]{"-44", "*", "-1"}, 44),
+                makeTestInfix(new String[]{"3", "/", "3"}, 0),
+                makeTestInfix(new String[]{"5", "/", "-3"}, 5/-3),
+                makeTestInfix(new String[]{"-23", "/", "3"},-23/3),
+                makeTestInfix(new String[]{"-44", "/", "-1"}, 44),
+                /* Multiplication/Division with 0 */
+                makeTestInfix(new String[]{"3", "*", "0"}, 0),
+                makeTestInfix(new String[]{"0", "*", "-3"}, 0),
+                makeTestInfix(new String[]{"0", "*", "-0"},0),
+                makeTestInfix(new String[]{"3", "/", "0"}, Double.NEGATIVE_INFINITY),
+                makeTestInfix(new String[]{"0", "/", "-3"}, Double.NaN),
+                makeTestInfix(new String[]{"0", "/", "0"},Double.NaN),
+                /* Parenthesis */
+                makeTestInfix(new String[]{"3", "+", "2", "*", "(", "5", "*", "7",")", "*", "0"}, 0),
+                makeTestInfix(new String[]{"(","3", "*", "-3",")"}, -9),
+                makeTestInfix(new String[]{"+2", "(","3", "*", "-3",")"}, -18),
+                /* Decimals */
+                makeTestInfix(new String[]{"1.5", "*", "3"}, 4.5)
+        );
     }
 
     public EvaluatorTest(Queue<String> infixExpression, double expectedAnswer) {
@@ -65,5 +67,14 @@ public class EvaluatorTest {
         double result = Double.parseDouble(new Evaluator().evaluate(infixExpression).remove());
 
         assertEquals(expectedAnswer, result, 0);
+    }
+
+    private static Object[] makeTestInfix(String[] symbols, double expectedAnswer) {
+        Queue<String> expression = new DynamicArray<>();
+        for (String symbol: symbols) {
+            expression.add(symbol);
+        }
+
+        return new Object[]{expression, expectedAnswer};
     }
 }

@@ -4,6 +4,7 @@ import com.tiffanyln.exceptions.IllegalInfixFormat;
 import com.tiffanyln.interfaces.Queue;
 import com.tiffanyln.interfaces.Stack;
 import com.tiffanyln.structures.DynamicArray;
+import javafx.scene.control.PasswordField;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -56,17 +57,19 @@ public class Evaluator {
      * Convert to postfix and calculate the answer. The input is
      * @param infixExpression
      *      A Queue containing the infix expression
-     * @return Queue<Double>
+     * @return Queue<String>
      *      A Queue with the result as the only entry
      * @throws IllegalInfixFormat
      */
-    public Queue<Double> evaluate(Queue<String> infixExpression) throws IllegalInfixFormat {
+    public Queue<String> evaluate(Queue<String> infixExpression) throws IllegalInfixFormat {
         log.debug("In evaluate");
+        log.debug("Infix Expression: " + infixExpression);
 
         // Check infix format is alright
         if (infixExpression == null) {
             throw new IllegalInfixFormat();
         }
+
         int size = infixExpression.size();
         // Infix in postfix
         postfix = new DynamicArray<>(size);
@@ -98,23 +101,59 @@ public class Evaluator {
                     // Represents that this is an operator
                     lastIsOperand = false;
 
-                    precedence = LOW_PRECEDENCE; // 0
-                    // @todo ???
+                    precedence = LOW_PRECEDENCE; // 1
+
                     operatorCount++;
                     break;
                 case "*":
                 case "/":
-                    precedence = HIGH_PRECEDENCE;
+                    precedence = HIGH_PRECEDENCE; // 2
                     break;
                 default:
                     // This is an operand
-                    precedence = DEFAULT_PRECEDENCE;
+                    precedence = DEFAULT_PRECEDENCE; // 0
+                    pushOperand(symbol);
                     break;
             }
 
         }
 
+        log.debug("Default return DynamicArray<>()");
         return new DynamicArray<>();
+    }
+
+
+    private void pushOperator(String operator, boolean isInParenthesis) {
+        log.debug("In pushOperator");
+
+        if (isInParenthesis) {
+            // Add directly to operator stack
+            operators.push(operator);
+        } else {
+            switch (precedence) {
+                case LOW_PRECEDENCE:
+                    break;
+                case HIGH_PRECEDENCE:
+                    break;
+                default:
+                    log.error("Something went wrong in pushOperator");
+                    break;
+            }
+        }
+    }
+
+    /**
+     *
+     * @param operand
+     * @throws IllegalInfixFormat
+     */
+    private void pushOperand(String operand) throws IllegalInfixFormat {
+        log.debug("In pushOperator");
+        try {
+            postfix.add(Double.parseDouble(operand) + "");
+        } catch (NumberFormatException e) {
+            throw new IllegalInfixFormat("Only numbers and operators are valid. We received operand: " + operand);
+        }
     }
 
     /**

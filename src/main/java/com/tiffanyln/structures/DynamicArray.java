@@ -18,14 +18,14 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
     // Index of last object in structure
     private int endPointer;
     private int capacity;
-    private int size;
+    private int size = 0;
 
     /**
      * Initializes a DynamicArray with an initial capacity
      * of 5
      */
     public DynamicArray() {
-        this(5);
+        this(0);
     }
 
     /**
@@ -35,24 +35,34 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
      *      Initial capacity
      */
     public DynamicArray(int capacity) {
+        log.debug("In DynamicArray constructor with capacity");
         list = new Object[capacity];
         // Set to -1 so that the pos will be 0 on the first push/add
         startPointer = -1;
         endPointer = -1;
+        size = 0;
+
         this.capacity = capacity;
     }
 
-    public DynamicArray(T[] array) {
-        this(array.length);
+    public DynamicArray(T[] arr) {
+        this(arr.length);
+        log.debug("In DynamicArray constructor with T[] arr");
 
+        for (T obj : arr) {
+            if (obj != null) {
+                push(obj);
+            }
+        }
     }
-
     /**
      * Get the object at the position given
      * @param position
      * @return the object at the given position
      */
     public T get(int position) {
+        log.debug("In get() : positon ->" + position);
+        log.debug("Got: " + (T) list[position]);
         return (T) list[position];
     }
 
@@ -64,6 +74,7 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
      * @return the element removed
      */
     public T remove(int position) {
+        log.debug("In remove(int positon): position ->" + position);
         T obj = get(position);
         Object[] newList = new Object[capacity];
         int j = 0;
@@ -73,6 +84,7 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
         for (int i = 0; i < size(); i++) {
             // Only add if it's not the element we want to remove
             if (i != position) {
+                log.debug("index of item: " + i);
                 newList[j++] = get(i);
             }
         }
@@ -80,7 +92,25 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
         // Assign list to the updated copy
         list = Arrays.copyOf(newList, capacity);
 
+        log.debug("Removed: " + obj);
+        size--;
         return obj;
+    }
+
+    /**
+     * Change the value at a specific position. The position must be less than the size
+     *
+     * @param position
+     * @param obj
+     */
+    private boolean set(int position, T obj) {
+        // Invalid
+        if (obj == null || position < 0 || position > size) {
+            return false;
+        } else {
+            list[position] = obj;
+            return true;
+        }
     }
 
     /**
@@ -90,9 +120,19 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
      */
     @Override
     public void push(T obj) {
+        log.debug("In push(): obj -> " + obj);
+        if (size >= capacity) {
+            log.debug("Size is beyond capacity in push, incrementing capacity...");
+            // Make a copy of the array without the element at the
+            // given position
+            list = Arrays.copyOf(list, ++capacity);
+        }
+
+        log.debug("In push()");
         if (obj != null) {
             if (startPointer < capacity) {
                 list[++startPointer] = obj;
+                size++;
             }
         }
     }
@@ -104,6 +144,7 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
      */
     @Override
     public T pop() {
+        log.debug("In pop()");
         if (startPointer != -1) {
             T obj = get(startPointer);
             remove(startPointer--);
@@ -119,6 +160,7 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
      */
     @Override
     public T peek() {
+        log.debug("In peek()");
         if (startPointer != -1) {
             return get(startPointer);
         }
@@ -133,13 +175,26 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
      */
     @Override
     public void add(T obj) {
-        if (obj != null) {
+        log.debug("In add(): obj -> " + obj);
+        if (size >= capacity) {
+            log.debug("Size is beyond capacity in add, incrementing capacity...");
+            // Make a copy of the array without the element at the
+            // given position
+            list = Arrays.copyOf(list, ++capacity);
+        }
+
+        if (obj == null) {
+            log.debug("Add failed, obj is null");
+        } else {
             if (endPointer < capacity) {
                 list[++endPointer] = obj;
+                size++;
+                log.debug("Add succeeded!");
+            } else {
+                log.debug("Add failed, endPointer: " + endPointer + " < " + "capacity: " + capacity);
             }
         }
 
-        log.debug("Push failed, obj is null");
     }
 
     /**
@@ -149,16 +204,18 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
      */
     @Override
     public T remove() {
+        log.debug("In remove()");
         if (startPointer == endPointer) {
             return null;
         } else {
             // Get next item and remove it from list
-            T obj = get(startPointer + 1);
+            T obj = get(++startPointer);
             remove(startPointer);
 
             // Set pointers to accommodate new size
             startPointer--;
             endPointer--;
+            log.debug("Removed(): " + obj);
             return obj;
         }
     }
@@ -171,6 +228,7 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
      */
     @Override
     public T element() {
+        log.debug("In element()");
         return startPointer == endPointer? null: get(startPointer + 1);
     }
 
@@ -181,11 +239,21 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
      */
     @Override
     public int size() {
-        return list.length;
+        log.debug("In size(): size is " + size);
+        return size;
     }
 
     @Override
     public String toString() {
-        return list.toString();
+        log.debug("toString()");
+        StringBuilder stringBuilder = new StringBuilder();
+
+        for(int i = 0; i < size(); i++ ) {
+            T t = get(i);
+            if (t != null) {
+                stringBuilder.append(t);
+            }
+        }
+        return stringBuilder.toString();
     }
 }

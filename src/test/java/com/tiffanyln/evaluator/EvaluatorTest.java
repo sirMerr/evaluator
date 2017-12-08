@@ -30,21 +30,21 @@ public class EvaluatorTest {
         double a1 = 2;
 
         Queue<String> e2 = new DynamicArray<>();
-        e1.add("2");
-        e1.add("-");
-        e1.add("1");
+        e2.add("2");
+        e2.add("-");
+        e2.add("1");
         double a2 = 1;
 
         Queue<String> e3 = new DynamicArray<>();
-        e1.add("10");
-        e1.add("*");
-        e1.add("40");
+        e3.add("10");
+        e3.add("*");
+        e3.add("40");
         double a3 = 400;
 
         Queue<String> e4 = new DynamicArray<>();
-        e1.add("55");
-        e1.add("/");
-        e1.add("11");
+        e4.add("55");
+        e4.add("/");
+        e4.add("11");
         double a4 = 5;
 
         /* @todo Multiplication/Division with 0 */
@@ -64,7 +64,7 @@ public class EvaluatorTest {
 
     @Test
     public void testEvaluate() throws IllegalInfixFormat {
-        double result = new Evaluator().evaluate(infixExpression).remove();
+        double result = Double.parseDouble(new Evaluator().evaluate(infixExpression).remove());
 
         assertEquals(expectedAnswer, result, 0);
     }

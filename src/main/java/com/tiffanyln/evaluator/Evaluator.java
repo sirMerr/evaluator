@@ -132,14 +132,68 @@ public class Evaluator {
         } else {
             switch (precedence) {
                 case LOW_PRECEDENCE:
+                    pushLowPrecedenceOperator(operator);
                     break;
                 case HIGH_PRECEDENCE:
+                    pushHighPrecedenceOperator(operator);
                     break;
                 default:
                     log.error("Something went wrong in pushOperator");
                     break;
             }
         }
+    }
+
+    /**
+     * Checks if the operator has equal or higher precedence to the one
+     * on the operator stack.
+     *
+     * If equal, push it to {@code postfix} and if
+     * higher, push it to {@code operators}
+     *
+     * @param newOperator
+     *      "*" or "/", which are operators with high precedence
+     *
+     */
+    private void pushHighPrecedenceOperator(String newOperator) {
+        log.debug("In pushHighPrecedenceOperator()");
+
+        for (int i = 0; i < operators.size(); i++) {
+            String lastOperator = operators.peek();
+
+            switch (lastOperator) {
+                case "+":
+                case "-":
+                    // In here, newOperator is higher precedence
+                    operators.push(newOperator);
+                    return;
+                case "*":
+                case "/":
+                    // In here, newOperator is equal precedence
+                    postfix.add(operators.pop());
+                    break;
+            }
+        }
+
+    }
+
+    /**
+     * Pop and push all operators in {@code operators} stack into
+     * {@code postfix} queue and push new operator to @{code operators},
+     * so that it only contains that one, starting a new cycle.
+     *
+     * @param newOperator
+     *      "+" or "-", which are low precedence operators
+     */
+    private void pushLowPrecedenceOperator(String newOperator) {
+        log.debug("In pushLowPrecedenceOperator()");
+        
+        for (int i = 0; i < operators.size(); i++) {
+            postfix.add(operators.pop());
+        }
+
+        operators.push(newOperator);
+
     }
 
     /**

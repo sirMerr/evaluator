@@ -1,10 +1,8 @@
 package com.tiffanyln.evaluator;
 
-import com.sun.org.apache.xerces.internal.xs.datatypes.ObjectList;
 import com.tiffanyln.exceptions.IllegalInfixFormat;
 import com.tiffanyln.interfaces.Queue;
 import com.tiffanyln.structures.DynamicArray;
-import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;

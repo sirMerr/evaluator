@@ -1,5 +1,6 @@
 package com.tiffanyln.evaluator;
 
+import com.sun.tools.javac.util.StringUtils;
 import com.tiffanyln.exceptions.IllegalInfixFormat;
 import com.tiffanyln.interfaces.Queue;
 import com.tiffanyln.interfaces.Stack;
@@ -154,8 +155,11 @@ public class Evaluator {
         log.debug("In calculate()");
         getPostfix();
         Stack<String> operands = new DynamicArray<>();
+        Queue<String> microExpression = new DynamicArray();
 
-
+//        for (int i = 0; i < postfix.size(); i++) {
+//            while (postfix.element())
+//        }
 
         return new DynamicArray<>();
     }
@@ -283,5 +287,9 @@ public class Evaluator {
         if (!lastIsOperand) {
             throw new IllegalInfixFormat("There should be an operand before this operator, this order is invalid.");
         }
+    }
+
+    private boolean isDouble(String value) {
+        return value.matches("[+-]?([0-9]*[.])?[0-9]+");
     }
 }

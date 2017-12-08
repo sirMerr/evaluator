@@ -95,19 +95,27 @@ public class Evaluator {
                     break;
                 case "+":
                 case "-":
-                    if (!lastIsOperand) {
-                        throw  new IllegalInfixFormat("There should be an operand before this operator, this order is invalid.");
-                    }
+                    // Throws is last symbol was not operand
+                    checkLastIsOperand();
                     // Represents that this is an operator
                     lastIsOperand = false;
 
                     precedence = LOW_PRECEDENCE; // 1
 
+                    pushOperator(symbol, isInParenthesis());
                     operatorCount++;
                     break;
                 case "*":
                 case "/":
+                    // Throws is last symbol was not operand
+                    checkLastIsOperand();
+                    // Represents that this is an operator
+                    lastIsOperand = false;
+
                     precedence = HIGH_PRECEDENCE; // 2
+
+                    pushOperator(symbol, isInParenthesis());
+                    operatorCount++;
                     break;
                 default:
                     // This is an operand
@@ -216,37 +224,14 @@ public class Evaluator {
      *
      * @return true if valid, false if not
      */
-    private boolean validParenthesis() {
+    private boolean isInParenthesis() {
         log.debug("In validParenthesis");
-        return openParenthesisCount == closedParenthesisCount;
+        return openParenthesisCount  > closedParenthesisCount;
     }
 
-    /**
-     * Makes sure we're not given an invalid expression
-     *
-     * @param infix
-     * @return true if invalid
-     */
-//    private boolean isInvalidInfix(Queue<String> infix) {
-//        return infix == null || infix.isEmpty();
-//    }
-
-    /**
-     * Process the Infix Queue by removing the strings one at a time from
-     * the queue. With each string determine if it is an operand or an
-     * operator. If it is an operand, add it to the Postfix Queue.
-     */
-//    private processInfix(Queue<String> infix) throws IllegalArgumentException {
-//        log.debug("In processInfix()");
-//
-//        if (isInvalidInfix(infix)) {
-//            log.error("Invalid infix expression: " + infix);
-//            throw new IllegalArgumentException();
-//        }
-//
-//        int size = infix.size();
-//
-//        postfix = new Queue<String>(size);
-//
-//    }
+    private void checkLastIsOperand() throws IllegalInfixFormat {
+        if (!lastIsOperand) {
+            throw new IllegalInfixFormat("There should be an operand before this operator, this order is invalid.");
+        }
+    }
 }

@@ -69,6 +69,16 @@ public class EvaluatorTest {
         assertEquals(expectedAnswer, result, 0);
     }
 
+    /**
+     * Makes test infix queue and the corresponding expected answer
+     *
+     * @param symbols
+     *      Operands and operators to add to the infix queue in order of declaration
+     * @param expectedAnswer
+     *      Expected floating point number
+     * @return Object[]
+     *      The infix expression and expected answer
+     */
     private static Object[] makeTestInfix(String[] symbols, double expectedAnswer) {
         Queue<String> expression = new DynamicArray<>();
         for (String symbol: symbols) {

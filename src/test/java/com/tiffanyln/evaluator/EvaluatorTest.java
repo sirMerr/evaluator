@@ -21,15 +21,15 @@ public class EvaluatorTest {
     @Parameters(name = "{index} plan[{0} = {1}]")
     public static Collection<Object[]> data() {
         return Arrays.asList(new Object[][] {
-                {new DynamicArray<>(new String[]{"1", "+", "3"}), 2},
-                {new DynamicArray<>(new String[]{"-1", "+", "-3"}), 4},
+                {new DynamicArray<>(new String[]{"1", "+", "1"}), 2},
+                {new DynamicArray<>(new String[]{"-1", "+", "-3"}), -4},
                 {new DynamicArray<>(new String[]{"1", "+", "-3"}), -2},
                 {new DynamicArray<>(new String[]{"-1", "+", "3"}),2},
                 {new DynamicArray<>(new String[]{"+1", "+", "3"}), 4},
                 {new DynamicArray<>(new String[]{"+1", "+", "+3"}), 4},
-                {new DynamicArray<>(new String[]{"+1", "+", "3"}),2},
+                {new DynamicArray<>(new String[]{"1", "+", "+3"}),4},
                 {new DynamicArray<>(new String[]{"-400", "+", "-1"}), -401},
-                {new DynamicArray<>(new String[]{"1", "-", "3"}), -2},
+                {new DynamicArray<>(new String[]{"1", "-", "3"}), -2}, // All subtractions are giving the wrong sign
                 {new DynamicArray<>(new String[]{"1", "-", "-3"}), 4},
                 {new DynamicArray<>(new String[]{"-1", "-", "3"}),-4},
                 {new DynamicArray<>(new String[]{"-400", "-", "-1"}), -399},
@@ -37,21 +37,21 @@ public class EvaluatorTest {
                 {new DynamicArray<>(new String[]{"5", "*", "-3"}), -15},
                 {new DynamicArray<>(new String[]{"-23", "*", "3"}),-69},
                 {new DynamicArray<>(new String[]{"-44", "*", "-1"}), 44},
-                {new DynamicArray<>(new String[]{"3", "/", "3"}), 0},
-                {new DynamicArray<>(new String[]{"5", "/", "-3"}), 5/-3},
-                {new DynamicArray<>(new String[]{"-23", "/", "3"}),-23/3},
+                {new DynamicArray<>(new String[]{"3", "/", "3"}), 1},
+                {new DynamicArray<>(new String[]{"5", "/", "-3"}), 5/-3.0},
+                {new DynamicArray<>(new String[]{"-23", "/", "3"}),-23/3.0},
                 {new DynamicArray<>(new String[]{"-44", "/", "-1"}), 44},
                 /* Multiplication/Division with 0 */
                 {new DynamicArray<>(new String[]{"3", "*", "0"}), 0},
                 {new DynamicArray<>(new String[]{"0", "*", "-3"}), 0},
                 {new DynamicArray<>(new String[]{"0", "*", "-0"}),0},
-                {new DynamicArray<>(new String[]{"3", "/", "0"}), Double.NEGATIVE_INFINITY},
-                {new DynamicArray<>(new String[]{"0", "/", "-3"}), Double.NaN},
+                {new DynamicArray<>(new String[]{"3", "/", "0"}), Double.POSITIVE_INFINITY},
+                {new DynamicArray<>(new String[]{"0", "/", "-3"}), -0},
                 {new DynamicArray<>(new String[]{"0", "/", "0"}),Double.NaN},
                 /* Parenthesis */
                 {new DynamicArray<>(new String[]{"3", "+", "2", "*", "(", "5", "*", "7",")", "*", "0"}), 0},
                 {new DynamicArray<>(new String[]{"(","3", "*", "-3",")"}), -9},
-                {new DynamicArray<>(new String[]{"+2", "(","3", "*", "-3",")"}), -18},
+                {new DynamicArray<>(new String[]{"+2", "*","(","3", "*", "-3",")"}), -18},
                 /* Decimals */
                 {new DynamicArray<>(new String[]{"1.5", "*", "3"}), 4.5}
         });

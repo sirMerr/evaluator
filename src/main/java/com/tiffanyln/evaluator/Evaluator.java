@@ -157,14 +157,17 @@ public class Evaluator {
         Stack<String> operands = new DynamicArray<>();
 
         for (int i = 0; i < postfix.size(); i++) {
+            log.debug("postfix.element(): " + postfix.element());
             while (isDouble(postfix.element())) {
+                log.debug("isDouble triggered");
                 // Loop and push until NaN is found
                 operands.push(postfix.remove());
+                log.debug("postfix.element(): " + postfix.element());
             }
 
             // operand-operand-operator
-            String operand1 = operands.pop();
             String operand2 = operands.pop();
+            String operand1 = operands.pop();
             String operator = postfix.remove();
 
             log.debug("Expression evaluated: " + operand1+operand2+operator);
@@ -187,9 +190,11 @@ public class Evaluator {
             }
 
             log.debug("Evaluated Result: " + result);
+            operands.push(result + "");
 
-            return postfix.size() == 0? new DynamicArray<>(new String[]{String.valueOf(result)}): null;
-
+            if (postfix.size() == 0) {
+                return new DynamicArray<>(new String[]{operands.pop()});
+            }
         }
 
         return new DynamicArray<>();
@@ -254,6 +259,8 @@ public class Evaluator {
                     break;
             }
         }
+        // Push to stack after it's handled
+        operators.push(newOperator);
 
     }
 

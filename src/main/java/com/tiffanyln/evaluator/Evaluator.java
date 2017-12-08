@@ -126,11 +126,34 @@ public class Evaluator {
 
         }
 
-        log.debug("Default return DynamicArray<>()");
-        return new DynamicArray<>();
+        // Counter for operands should have 1 more than operators.
+        // and each open parenthesis should have a closing one
+        if (operandCount != operandCount + 1 ) {
+            throw new IllegalInfixFormat("Operand count compared to operators is invalid-> operandCount: " + operandCount + " operatorCount: " + operatorCount);
+        }
+        if (openParenthesisCount != closedParenthesisCount) {
+            throw new IllegalInfixFormat("Does not have matching open and closing parenthesis");
+        }
+
+        return calculate();
     }
 
+    /**
+     * Calculates postfix expression
+     * @return
+     */
+    private Queue<String> calculate() {
+        getPostfix();
+        // WIP
+    }
 
+    /**
+     * @todo More javadoc
+     * Handler for operator
+     *
+     * @param operator
+     * @param isInParenthesis
+     */
     private void pushOperator(String operator, boolean isInParenthesis) {
         log.debug("In pushOperator");
 
@@ -210,7 +233,7 @@ public class Evaluator {
      * @throws IllegalInfixFormat
      */
     private void pushOperand(String operand) throws IllegalInfixFormat {
-        log.debug("In pushOperator");
+        log.debug("In pushOperator()");
         try {
             postfix.add(Double.parseDouble(operand) + "");
         } catch (NumberFormatException e) {
@@ -218,6 +241,19 @@ public class Evaluator {
         }
     }
 
+    /**
+     * Pops and pushes any operators from the stack to our {@code postfix}
+     * @return
+     *      Finished postfix expression
+     */
+    private Queue<String> getPostfix() {
+        log.debug("In getPostfix()");
+        for (int i = 0; i < operators.size(); i++) {
+            postfix.add(operators.pop());
+        }
+
+        return postfix;
+    }
     /**
      * Checks if there are as many open parenthesis as there are
      * open parenthesis

@@ -61,8 +61,8 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
      * @return the object at the given position
      */
     public T get(int position) {
-        log.debug("In get() : positon ->" + position);
-        log.debug("Got: " + (T) list[position]);
+//        log.debug("In get() : positon ->" + position);
+//        log.debug("Got: " + (T) list[position]);
         return (T) list[position];
     }
 
@@ -239,7 +239,7 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
      */
     @Override
     public int size() {
-        log.debug("In size(): size is " + size);
+//        log.debug("In size(): size is " + size);
         return size;
     }
 
@@ -254,6 +254,8 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
                 stringBuilder.append(t);
             }
         }
+
+        log.debug("List: " + stringBuilder.toString());
         return stringBuilder.toString();
     }
 }

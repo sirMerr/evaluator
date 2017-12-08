@@ -82,9 +82,11 @@ public class Evaluator {
 
             switch (symbol) {
                 case "(":
+                    log.debug("In case '('");
                     openParenthesisCount++;
                     break;
                 case ")":
+                    log.debug("In case ')'");
                     closedParenthesisCount++;
 
                     // Remove all operators from stack
@@ -95,6 +97,7 @@ public class Evaluator {
                     break;
                 case "+":
                 case "-":
+                    log.debug("In case '+' or '-'");
                     // Throws is last symbol was not operand
                     checkLastIsOperand();
                     // Represents that this is an operator
@@ -107,6 +110,7 @@ public class Evaluator {
                     break;
                 case "*":
                 case "/":
+                    log.debug("In case '*' or '/'");
                     // Throws is last symbol was not operand
                     checkLastIsOperand();
                     // Represents that this is an operator
@@ -118,9 +122,12 @@ public class Evaluator {
                     operatorCount++;
                     break;
                 default:
+                    log.debug("In case operand");
                     // This is an operand
                     precedence = DEFAULT_PRECEDENCE; // 0
                     pushOperand(symbol);
+                    lastIsOperand = true;
+                    operandCount++;
                     break;
             }
 
@@ -128,7 +135,7 @@ public class Evaluator {
 
         // Counter for operands should have 1 more than operators.
         // and each open parenthesis should have a closing one
-        if (operandCount != operandCount + 1 ) {
+        if (operandCount != operatorCount + 1 ) {
             throw new IllegalInfixFormat("Operand count compared to operators is invalid-> operandCount: " + operandCount + " operatorCount: " + operatorCount);
         }
         if (openParenthesisCount != closedParenthesisCount) {
@@ -139,12 +146,18 @@ public class Evaluator {
     }
 
     /**
-     * Calculates postfix expression
+     * Calculates postfix expression.
+     *
      * @return
      */
     private Queue<String> calculate() {
+        log.debug("In calculate()");
         getPostfix();
-        // WIP
+        Stack<String> operands = new DynamicArray<>();
+
+
+
+        return new DynamicArray<>();
     }
 
     /**
@@ -155,10 +168,11 @@ public class Evaluator {
      * @param isInParenthesis
      */
     private void pushOperator(String operator, boolean isInParenthesis) {
-        log.debug("In pushOperator");
+        log.debug("In pushOperator(operator= " + operator + ", isInParenthesis=" + isInParenthesis + ")");
 
         if (isInParenthesis) {
             // Add directly to operator stack
+            log.debug("pushOperator() : operators.push(" + operator + ")");
             operators.push(operator);
         } else {
             switch (precedence) {
@@ -187,7 +201,7 @@ public class Evaluator {
      *
      */
     private void pushHighPrecedenceOperator(String newOperator) {
-        log.debug("In pushHighPrecedenceOperator()");
+        log.debug("In pushHighPrecedenceOperator(newOperator= " + newOperator + ")");
 
         for (int i = 0; i < operators.size(); i++) {
             String lastOperator = operators.peek();
@@ -217,7 +231,7 @@ public class Evaluator {
      *      "+" or "-", which are low precedence operators
      */
     private void pushLowPrecedenceOperator(String newOperator) {
-        log.debug("In pushLowPrecedenceOperator()");
+        log.debug("In pushLowPrecedenceOperator(newOperator= " + newOperator + ")");
 
         for (int i = 0; i < operators.size(); i++) {
             postfix.add(operators.pop());
@@ -233,7 +247,7 @@ public class Evaluator {
      * @throws IllegalInfixFormat
      */
     private void pushOperand(String operand) throws IllegalInfixFormat {
-        log.debug("In pushOperator()");
+        log.debug("In pushOperand(operand= " + operand + ")");
         try {
             postfix.add(Double.parseDouble(operand) + "");
         } catch (NumberFormatException e) {

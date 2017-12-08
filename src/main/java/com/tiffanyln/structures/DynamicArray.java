@@ -51,7 +51,7 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
 
         for (T obj : arr) {
             if (obj != null) {
-                push(obj);
+                add(obj);
             }
         }
     }
@@ -210,6 +210,7 @@ public class DynamicArray<T> implements Queue<T>, Stack<T> {
             return null;
         } else {
             // Get next item and remove it from list
+            log.debug("Start pointer: " + startPointer);
             T obj = get(++startPointer);
             remove(startPointer);
 

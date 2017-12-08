@@ -21,8 +21,8 @@ public class EvaluatorTest {
     @Parameters(name = "{index} plan[{0} = {1}]")
     public static Collection<Object[]> data() {
         return Arrays.asList(new Object[][] {
-                {new DynamicArray<>(new String[]{"1", "2", "3"}), 2},
-                {new DynamicArray<>(new String[]{"1", "+", "3"}), 4},
+                {new DynamicArray<>(new String[]{"1", "+", "3"}), 2},
+                {new DynamicArray<>(new String[]{"-1", "+", "-3"}), 4},
                 {new DynamicArray<>(new String[]{"1", "+", "-3"}), -2},
                 {new DynamicArray<>(new String[]{"-1", "+", "3"}),2},
                 {new DynamicArray<>(new String[]{"+1", "+", "3"}), 4},

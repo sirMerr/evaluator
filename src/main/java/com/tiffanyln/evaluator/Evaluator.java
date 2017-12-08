@@ -155,7 +155,6 @@ public class Evaluator {
         log.debug("In calculate()");
         getPostfix();
         Stack<String> operands = new DynamicArray<>();
-        Queue<String> microExpression = new DynamicArray();
 
         for (int i = 0; i < postfix.size(); i++) {
             while (isDouble(postfix.element())) {
@@ -163,7 +162,33 @@ public class Evaluator {
                 operands.push(postfix.remove());
             }
 
-            // 12+
+            // operand-operand-operator
+            String operand1 = operands.pop();
+            String operand2 = operands.pop();
+            String operator = postfix.remove();
+
+            log.debug("Expression evaluated: " + operand1+operand2+operator);
+
+            Double result = null;
+
+            switch (operator) {
+                case "+":
+                    result = Double.parseDouble(operand1) + Double.parseDouble(operand2);
+                    break;
+                case "-":
+                    result = Double.parseDouble(operand1) - Double.parseDouble(operand2);
+                    break;
+                case "*":
+                    result = Double.parseDouble(operand1) * Double.parseDouble(operand2);
+                    break;
+                case "/":
+                    result = Double.parseDouble(operand1) / Double.parseDouble(operand2);
+                    break;
+            }
+
+            log.debug("Evaluated Result: " + result);
+
+            return postfix.size() == 0? new DynamicArray<>(new String[]{String.valueOf(result)}): null;
 
         }
 

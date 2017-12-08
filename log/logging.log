@@ -22152,3 +22152,2226 @@
 [DEBUG] 2017-12-08 02:59:05.117 [main] DynamicArray - In DynamicArray constructor with capacity
 [DEBUG] 2017-12-08 02:59:05.117 [main] DynamicArray - In DynamicArray constructor with capacity
 [DEBUG] 2017-12-08 02:59:05.117 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.522 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.525 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.526 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:03:43.526 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.526 [main] DynamicArray - In push(): obj -> 2
+[DEBUG] 2017-12-08 14:03:43.526 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.526 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.526 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.527 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.527 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.527 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:03:43.527 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.527 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:03:43.528 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.528 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.528 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.528 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.528 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.528 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:03:43.528 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.528 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:03:43.528 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.528 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:03:43.529 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.529 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.529 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.529 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:03:43.529 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.529 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:03:43.529 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.529 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.529 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.529 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.530 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.530 [main] DynamicArray - In push(): obj -> +1
+[DEBUG] 2017-12-08 14:03:43.530 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.530 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:03:43.530 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.530 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.530 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.530 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.530 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.530 [main] DynamicArray - In push(): obj -> +1
+[DEBUG] 2017-12-08 14:03:43.530 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.530 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:03:43.531 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.531 [main] DynamicArray - In push(): obj -> +3
+[DEBUG] 2017-12-08 14:03:43.531 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.531 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.531 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.531 [main] DynamicArray - In push(): obj -> +1
+[DEBUG] 2017-12-08 14:03:43.531 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.531 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:03:43.531 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.531 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.532 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.532 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.532 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.532 [main] DynamicArray - In push(): obj -> -400
+[DEBUG] 2017-12-08 14:03:43.532 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.532 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:03:43.532 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.532 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:03:43.532 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.532 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.533 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.533 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:03:43.533 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.533 [main] DynamicArray - In push(): obj -> -
+[DEBUG] 2017-12-08 14:03:43.533 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.533 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.533 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.533 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.533 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.534 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:03:43.534 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.534 [main] DynamicArray - In push(): obj -> -
+[DEBUG] 2017-12-08 14:03:43.534 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.534 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:03:43.534 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.534 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.534 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.534 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:03:43.534 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.534 [main] DynamicArray - In push(): obj -> -
+[DEBUG] 2017-12-08 14:03:43.534 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.534 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.534 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.534 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.535 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.535 [main] DynamicArray - In push(): obj -> -400
+[DEBUG] 2017-12-08 14:03:43.535 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.535 [main] DynamicArray - In push(): obj -> -
+[DEBUG] 2017-12-08 14:03:43.535 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.535 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:03:43.535 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.535 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.535 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.535 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.536 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.536 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:03:43.536 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.536 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.536 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.536 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.536 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.536 [main] DynamicArray - In push(): obj -> 5
+[DEBUG] 2017-12-08 14:03:43.536 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.536 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:03:43.537 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.537 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:03:43.537 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.537 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.537 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.537 [main] DynamicArray - In push(): obj -> -23
+[DEBUG] 2017-12-08 14:03:43.537 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.537 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:03:43.537 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.537 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.537 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.537 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.537 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.538 [main] DynamicArray - In push(): obj -> -44
+[DEBUG] 2017-12-08 14:03:43.538 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.538 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:03:43.538 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.538 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:03:43.538 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.538 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.538 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.539 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.539 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.539 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:03:43.539 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.539 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.539 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.539 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.539 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.539 [main] DynamicArray - In push(): obj -> 5
+[DEBUG] 2017-12-08 14:03:43.539 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.539 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:03:43.539 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.539 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:03:43.539 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.539 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.539 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.540 [main] DynamicArray - In push(): obj -> -23
+[DEBUG] 2017-12-08 14:03:43.540 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.540 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:03:43.540 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.540 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.540 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.540 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.540 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.540 [main] DynamicArray - In push(): obj -> -44
+[DEBUG] 2017-12-08 14:03:43.540 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.540 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:03:43.540 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.540 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:03:43.540 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.540 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.540 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.541 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.541 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.541 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:03:43.541 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.541 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:03:43.541 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.541 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.541 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.541 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:03:43.541 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.541 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:03:43.541 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.541 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:03:43.541 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.542 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.542 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.542 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:03:43.542 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.542 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:03:43.542 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.542 [main] DynamicArray - In push(): obj -> -0
+[DEBUG] 2017-12-08 14:03:43.542 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.542 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.542 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.542 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.542 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.542 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:03:43.542 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.542 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:03:43.542 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.544 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.545 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.545 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:03:43.545 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.545 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:03:43.545 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.545 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:03:43.545 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.545 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.545 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.545 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:03:43.545 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.545 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:03:43.545 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.545 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In push(): obj -> 2
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In push(): obj -> (
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In push(): obj -> 5
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:03:43.546 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push(): obj -> 7
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push(): obj -> )
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push(): obj -> (
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push(): obj -> )
+[DEBUG] 2017-12-08 14:03:43.547 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.548 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.548 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.548 [main] DynamicArray - In push(): obj -> +2
+[DEBUG] 2017-12-08 14:03:43.548 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.548 [main] DynamicArray - In push(): obj -> (
+[DEBUG] 2017-12-08 14:03:43.548 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.548 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.548 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.548 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:03:43.548 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.548 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:03:43.548 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.549 [main] DynamicArray - In push(): obj -> )
+[DEBUG] 2017-12-08 14:03:43.549 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.549 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.549 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:03:43.549 [main] DynamicArray - In push(): obj -> 1.5
+[DEBUG] 2017-12-08 14:03:43.549 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.549 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:03:43.549 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.549 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:03:43.549 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:03:43.550 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.550 [main] DynamicArray - List: 123
+[DEBUG] 2017-12-08 14:03:43.551 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.551 [main] DynamicArray - List: 1+3
+[DEBUG] 2017-12-08 14:03:43.551 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.551 [main] DynamicArray - List: 1+-3
+[DEBUG] 2017-12-08 14:03:43.551 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.552 [main] DynamicArray - List: -1+3
+[DEBUG] 2017-12-08 14:03:43.552 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.552 [main] DynamicArray - List: +1+3
+[DEBUG] 2017-12-08 14:03:43.552 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.552 [main] DynamicArray - List: +1++3
+[DEBUG] 2017-12-08 14:03:43.552 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.552 [main] DynamicArray - List: +1+3
+[DEBUG] 2017-12-08 14:03:43.553 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.553 [main] DynamicArray - List: -400+-1
+[DEBUG] 2017-12-08 14:03:43.553 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.553 [main] DynamicArray - List: 1-3
+[DEBUG] 2017-12-08 14:03:43.553 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.553 [main] DynamicArray - List: 1--3
+[DEBUG] 2017-12-08 14:03:43.553 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.553 [main] DynamicArray - List: -1-3
+[DEBUG] 2017-12-08 14:03:43.554 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.554 [main] DynamicArray - List: -400--1
+[DEBUG] 2017-12-08 14:03:43.554 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.554 [main] DynamicArray - List: 3*3
+[DEBUG] 2017-12-08 14:03:43.554 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.554 [main] DynamicArray - List: 5*-3
+[DEBUG] 2017-12-08 14:03:43.554 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.554 [main] DynamicArray - List: -23*3
+[DEBUG] 2017-12-08 14:03:43.554 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.554 [main] DynamicArray - List: -44*-1
+[DEBUG] 2017-12-08 14:03:43.555 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.555 [main] DynamicArray - List: 3/3
+[DEBUG] 2017-12-08 14:03:43.555 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.555 [main] DynamicArray - List: 5/-3
+[DEBUG] 2017-12-08 14:03:43.555 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.555 [main] DynamicArray - List: -23/3
+[DEBUG] 2017-12-08 14:03:43.555 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.555 [main] DynamicArray - List: -44/-1
+[DEBUG] 2017-12-08 14:03:43.555 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.555 [main] DynamicArray - List: 3*0
+[DEBUG] 2017-12-08 14:03:43.555 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.556 [main] DynamicArray - List: 0*-3
+[DEBUG] 2017-12-08 14:03:43.556 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.556 [main] DynamicArray - List: 0*-0
+[DEBUG] 2017-12-08 14:03:43.556 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.556 [main] DynamicArray - List: 3/0
+[DEBUG] 2017-12-08 14:03:43.556 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.556 [main] DynamicArray - List: 0/-3
+[DEBUG] 2017-12-08 14:03:43.556 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.556 [main] DynamicArray - List: 0/0
+[DEBUG] 2017-12-08 14:03:43.557 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.557 [main] DynamicArray - List: 3+2*(5*7)*0
+[DEBUG] 2017-12-08 14:03:43.557 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.557 [main] DynamicArray - List: (3*-3)
+[DEBUG] 2017-12-08 14:03:43.557 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.557 [main] DynamicArray - List: +2(3*-3)
+[DEBUG] 2017-12-08 14:03:43.557 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.558 [main] DynamicArray - List: 1.5*3
+[DEBUG] 2017-12-08 14:03:43.592 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.592 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.593 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.593 [main] DynamicArray - List: 123
+[DEBUG] 2017-12-08 14:03:43.593 [main] Evaluator - Infix Expression: 123
+[DEBUG] 2017-12-08 14:03:43.593 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.593 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.593 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.599 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.599 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.599 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.599 [main] DynamicArray - List: 1+3
+[DEBUG] 2017-12-08 14:03:43.599 [main] Evaluator - Infix Expression: 1+3
+[DEBUG] 2017-12-08 14:03:43.599 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.600 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.600 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.601 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.601 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.601 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.601 [main] DynamicArray - List: 1+-3
+[DEBUG] 2017-12-08 14:03:43.601 [main] Evaluator - Infix Expression: 1+-3
+[DEBUG] 2017-12-08 14:03:43.601 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.602 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.602 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.604 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.604 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.604 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.604 [main] DynamicArray - List: -1+3
+[DEBUG] 2017-12-08 14:03:43.604 [main] Evaluator - Infix Expression: -1+3
+[DEBUG] 2017-12-08 14:03:43.604 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.605 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.605 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.606 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.607 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.607 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.607 [main] DynamicArray - List: +1+3
+[DEBUG] 2017-12-08 14:03:43.607 [main] Evaluator - Infix Expression: +1+3
+[DEBUG] 2017-12-08 14:03:43.607 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.607 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.607 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.609 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.609 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.609 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.609 [main] DynamicArray - List: +1++3
+[DEBUG] 2017-12-08 14:03:43.609 [main] Evaluator - Infix Expression: +1++3
+[DEBUG] 2017-12-08 14:03:43.609 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.609 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.610 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.611 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.611 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.612 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.612 [main] DynamicArray - List: +1+3
+[DEBUG] 2017-12-08 14:03:43.612 [main] Evaluator - Infix Expression: +1+3
+[DEBUG] 2017-12-08 14:03:43.612 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.612 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.612 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.614 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.614 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.614 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.614 [main] DynamicArray - List: -400+-1
+[DEBUG] 2017-12-08 14:03:43.614 [main] Evaluator - Infix Expression: -400+-1
+[DEBUG] 2017-12-08 14:03:43.614 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.615 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.615 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.616 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.616 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.616 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.616 [main] DynamicArray - List: 1-3
+[DEBUG] 2017-12-08 14:03:43.616 [main] Evaluator - Infix Expression: 1-3
+[DEBUG] 2017-12-08 14:03:43.616 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.616 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.616 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.618 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.618 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.618 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.618 [main] DynamicArray - List: 1--3
+[DEBUG] 2017-12-08 14:03:43.618 [main] Evaluator - Infix Expression: 1--3
+[DEBUG] 2017-12-08 14:03:43.618 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.619 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.619 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.620 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.621 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.621 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.621 [main] DynamicArray - List: -1-3
+[DEBUG] 2017-12-08 14:03:43.621 [main] Evaluator - Infix Expression: -1-3
+[DEBUG] 2017-12-08 14:03:43.621 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.621 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.622 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.623 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.623 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.623 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.623 [main] DynamicArray - List: -400--1
+[DEBUG] 2017-12-08 14:03:43.623 [main] Evaluator - Infix Expression: -400--1
+[DEBUG] 2017-12-08 14:03:43.624 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.624 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.624 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.625 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.625 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.625 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.625 [main] DynamicArray - List: 3*3
+[DEBUG] 2017-12-08 14:03:43.625 [main] Evaluator - Infix Expression: 3*3
+[DEBUG] 2017-12-08 14:03:43.626 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.626 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.626 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.628 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.628 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.628 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.628 [main] DynamicArray - List: 5*-3
+[DEBUG] 2017-12-08 14:03:43.628 [main] Evaluator - Infix Expression: 5*-3
+[DEBUG] 2017-12-08 14:03:43.628 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.628 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.628 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.630 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.630 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.630 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.630 [main] DynamicArray - List: -23*3
+[DEBUG] 2017-12-08 14:03:43.630 [main] Evaluator - Infix Expression: -23*3
+[DEBUG] 2017-12-08 14:03:43.630 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.630 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.631 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.634 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.634 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.634 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.634 [main] DynamicArray - List: -44*-1
+[DEBUG] 2017-12-08 14:03:43.634 [main] Evaluator - Infix Expression: -44*-1
+[DEBUG] 2017-12-08 14:03:43.634 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.634 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.634 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.635 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.636 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.636 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.636 [main] DynamicArray - List: 3/3
+[DEBUG] 2017-12-08 14:03:43.636 [main] Evaluator - Infix Expression: 3/3
+[DEBUG] 2017-12-08 14:03:43.636 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.636 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.636 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.639 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.639 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.639 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.639 [main] DynamicArray - List: 5/-3
+[DEBUG] 2017-12-08 14:03:43.639 [main] Evaluator - Infix Expression: 5/-3
+[DEBUG] 2017-12-08 14:03:43.639 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.640 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.640 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.641 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.641 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.641 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.641 [main] DynamicArray - List: -23/3
+[DEBUG] 2017-12-08 14:03:43.641 [main] Evaluator - Infix Expression: -23/3
+[DEBUG] 2017-12-08 14:03:43.641 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.641 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.641 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.643 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.643 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.643 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.643 [main] DynamicArray - List: -44/-1
+[DEBUG] 2017-12-08 14:03:43.643 [main] Evaluator - Infix Expression: -44/-1
+[DEBUG] 2017-12-08 14:03:43.643 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.643 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.643 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.645 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.645 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.645 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.645 [main] DynamicArray - List: 3*0
+[DEBUG] 2017-12-08 14:03:43.645 [main] Evaluator - Infix Expression: 3*0
+[DEBUG] 2017-12-08 14:03:43.645 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.646 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.646 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.647 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.647 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.647 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.647 [main] DynamicArray - List: 0*-3
+[DEBUG] 2017-12-08 14:03:43.648 [main] Evaluator - Infix Expression: 0*-3
+[DEBUG] 2017-12-08 14:03:43.648 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.648 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.648 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.649 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.649 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.649 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.649 [main] DynamicArray - List: 0*-0
+[DEBUG] 2017-12-08 14:03:43.649 [main] Evaluator - Infix Expression: 0*-0
+[DEBUG] 2017-12-08 14:03:43.649 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.649 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.650 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.652 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.652 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.652 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.652 [main] DynamicArray - List: 3/0
+[DEBUG] 2017-12-08 14:03:43.653 [main] Evaluator - Infix Expression: 3/0
+[DEBUG] 2017-12-08 14:03:43.653 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.653 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.653 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.654 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.655 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.655 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.655 [main] DynamicArray - List: 0/-3
+[DEBUG] 2017-12-08 14:03:43.655 [main] Evaluator - Infix Expression: 0/-3
+[DEBUG] 2017-12-08 14:03:43.655 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.655 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.655 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.657 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.657 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.657 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.657 [main] DynamicArray - List: 0/0
+[DEBUG] 2017-12-08 14:03:43.657 [main] Evaluator - Infix Expression: 0/0
+[DEBUG] 2017-12-08 14:03:43.657 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.657 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.657 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.659 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.659 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.659 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.659 [main] DynamicArray - List: 3+2*(5*7)*0
+[DEBUG] 2017-12-08 14:03:43.659 [main] Evaluator - Infix Expression: 3+2*(5*7)*0
+[DEBUG] 2017-12-08 14:03:43.659 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.660 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.660 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.661 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.661 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.661 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.661 [main] DynamicArray - List: (3*-3)
+[DEBUG] 2017-12-08 14:03:43.661 [main] Evaluator - Infix Expression: (3*-3)
+[DEBUG] 2017-12-08 14:03:43.661 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.661 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.661 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.662 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.663 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.663 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.663 [main] DynamicArray - List: +2(3*-3)
+[DEBUG] 2017-12-08 14:03:43.663 [main] Evaluator - Infix Expression: +2(3*-3)
+[DEBUG] 2017-12-08 14:03:43.663 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.663 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.663 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:03:43.665 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:03:43.665 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:03:43.665 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:03:43.665 [main] DynamicArray - List: 1.5*3
+[DEBUG] 2017-12-08 14:03:43.665 [main] Evaluator - Infix Expression: 1.5*3
+[DEBUG] 2017-12-08 14:03:43.665 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.665 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:03:43.665 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.004 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.007 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.007 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:04:34.007 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.007 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:04:34.008 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.008 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.008 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.009 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.009 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.009 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:04:34.009 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.009 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:04:34.009 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.009 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:04:34.010 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.010 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.010 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.010 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:04:34.010 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.010 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:04:34.010 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.010 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:04:34.011 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.011 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.011 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.011 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:04:34.011 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.011 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:04:34.011 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.011 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.011 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.011 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.012 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.012 [main] DynamicArray - In push(): obj -> +1
+[DEBUG] 2017-12-08 14:04:34.012 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.012 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:04:34.012 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.012 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.013 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.013 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.013 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.013 [main] DynamicArray - In push(): obj -> +1
+[DEBUG] 2017-12-08 14:04:34.013 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.013 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:04:34.013 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.013 [main] DynamicArray - In push(): obj -> +3
+[DEBUG] 2017-12-08 14:04:34.013 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.013 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.014 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.014 [main] DynamicArray - In push(): obj -> +1
+[DEBUG] 2017-12-08 14:04:34.014 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.014 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:04:34.014 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.014 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.014 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.015 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.015 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.015 [main] DynamicArray - In push(): obj -> -400
+[DEBUG] 2017-12-08 14:04:34.015 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.015 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:04:34.015 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.015 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:04:34.015 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.015 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.015 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.016 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:04:34.016 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.016 [main] DynamicArray - In push(): obj -> -
+[DEBUG] 2017-12-08 14:04:34.016 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.016 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.016 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.016 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.016 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.016 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:04:34.017 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.017 [main] DynamicArray - In push(): obj -> -
+[DEBUG] 2017-12-08 14:04:34.017 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.017 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:04:34.017 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.017 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.017 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.017 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:04:34.017 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.017 [main] DynamicArray - In push(): obj -> -
+[DEBUG] 2017-12-08 14:04:34.018 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.018 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.018 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.018 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.018 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.018 [main] DynamicArray - In push(): obj -> -400
+[DEBUG] 2017-12-08 14:04:34.018 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.018 [main] DynamicArray - In push(): obj -> -
+[DEBUG] 2017-12-08 14:04:34.018 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.018 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:04:34.018 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.019 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.019 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.019 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.019 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.019 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:04:34.019 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.019 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.019 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.019 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.019 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.020 [main] DynamicArray - In push(): obj -> 5
+[DEBUG] 2017-12-08 14:04:34.020 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.020 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:04:34.020 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.020 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:04:34.020 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.020 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.020 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.020 [main] DynamicArray - In push(): obj -> -23
+[DEBUG] 2017-12-08 14:04:34.020 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.020 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:04:34.020 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.021 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.021 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.021 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.021 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.021 [main] DynamicArray - In push(): obj -> -44
+[DEBUG] 2017-12-08 14:04:34.021 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.021 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:04:34.021 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.021 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:04:34.021 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.022 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.022 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.022 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.022 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.022 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:04:34.022 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.022 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.022 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.022 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.022 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.022 [main] DynamicArray - In push(): obj -> 5
+[DEBUG] 2017-12-08 14:04:34.022 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.022 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:04:34.023 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.023 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:04:34.023 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.023 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.023 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.023 [main] DynamicArray - In push(): obj -> -23
+[DEBUG] 2017-12-08 14:04:34.023 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.023 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:04:34.023 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.023 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.023 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.024 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.024 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.024 [main] DynamicArray - In push(): obj -> -44
+[DEBUG] 2017-12-08 14:04:34.024 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.024 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:04:34.024 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.024 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:04:34.024 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.024 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.024 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.024 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.025 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.025 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:04:34.025 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.025 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:04:34.025 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.025 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.025 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.025 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:04:34.025 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.026 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:04:34.026 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.026 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:04:34.026 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.026 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.026 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.026 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:04:34.026 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.026 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:04:34.027 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.027 [main] DynamicArray - In push(): obj -> -0
+[DEBUG] 2017-12-08 14:04:34.027 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.027 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.027 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.027 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.027 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.027 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:04:34.027 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.028 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:04:34.028 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.032 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.033 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.033 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:04:34.033 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.033 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:04:34.033 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.033 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:04:34.033 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.033 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.033 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.033 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:04:34.033 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.033 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:04:34.033 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.033 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:04:34.034 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.034 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.034 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.034 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.034 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.034 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:04:34.034 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.034 [main] DynamicArray - In push(): obj -> 2
+[DEBUG] 2017-12-08 14:04:34.034 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.034 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:04:34.034 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.034 [main] DynamicArray - In push(): obj -> (
+[DEBUG] 2017-12-08 14:04:34.035 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.035 [main] DynamicArray - In push(): obj -> 5
+[DEBUG] 2017-12-08 14:04:34.035 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.035 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:04:34.035 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.035 [main] DynamicArray - In push(): obj -> 7
+[DEBUG] 2017-12-08 14:04:34.035 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.035 [main] DynamicArray - In push(): obj -> )
+[DEBUG] 2017-12-08 14:04:34.035 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.035 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:04:34.035 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.036 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:04:34.036 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.036 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.036 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.036 [main] DynamicArray - In push(): obj -> (
+[DEBUG] 2017-12-08 14:04:34.036 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.036 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.036 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.036 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:04:34.036 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.036 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:04:34.036 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.036 [main] DynamicArray - In push(): obj -> )
+[DEBUG] 2017-12-08 14:04:34.036 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.037 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.037 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.037 [main] DynamicArray - In push(): obj -> +2
+[DEBUG] 2017-12-08 14:04:34.037 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.037 [main] DynamicArray - In push(): obj -> (
+[DEBUG] 2017-12-08 14:04:34.037 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.037 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.037 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.037 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:04:34.037 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.037 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:04:34.037 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.038 [main] DynamicArray - In push(): obj -> )
+[DEBUG] 2017-12-08 14:04:34.038 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.038 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.038 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:04:34.038 [main] DynamicArray - In push(): obj -> 1.5
+[DEBUG] 2017-12-08 14:04:34.039 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.039 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:04:34.039 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.039 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:04:34.039 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:04:34.040 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.040 [main] DynamicArray - List: 1+3
+[DEBUG] 2017-12-08 14:04:34.042 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.042 [main] DynamicArray - List: -1+-3
+[DEBUG] 2017-12-08 14:04:34.042 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.042 [main] DynamicArray - List: 1+-3
+[DEBUG] 2017-12-08 14:04:34.043 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.043 [main] DynamicArray - List: -1+3
+[DEBUG] 2017-12-08 14:04:34.043 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.043 [main] DynamicArray - List: +1+3
+[DEBUG] 2017-12-08 14:04:34.043 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.043 [main] DynamicArray - List: +1++3
+[DEBUG] 2017-12-08 14:04:34.043 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.043 [main] DynamicArray - List: +1+3
+[DEBUG] 2017-12-08 14:04:34.044 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.044 [main] DynamicArray - List: -400+-1
+[DEBUG] 2017-12-08 14:04:34.044 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.044 [main] DynamicArray - List: 1-3
+[DEBUG] 2017-12-08 14:04:34.044 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.044 [main] DynamicArray - List: 1--3
+[DEBUG] 2017-12-08 14:04:34.045 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.045 [main] DynamicArray - List: -1-3
+[DEBUG] 2017-12-08 14:04:34.045 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.045 [main] DynamicArray - List: -400--1
+[DEBUG] 2017-12-08 14:04:34.045 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.045 [main] DynamicArray - List: 3*3
+[DEBUG] 2017-12-08 14:04:34.045 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.045 [main] DynamicArray - List: 5*-3
+[DEBUG] 2017-12-08 14:04:34.046 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.046 [main] DynamicArray - List: -23*3
+[DEBUG] 2017-12-08 14:04:34.046 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.046 [main] DynamicArray - List: -44*-1
+[DEBUG] 2017-12-08 14:04:34.046 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.047 [main] DynamicArray - List: 3/3
+[DEBUG] 2017-12-08 14:04:34.047 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.047 [main] DynamicArray - List: 5/-3
+[DEBUG] 2017-12-08 14:04:34.047 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.047 [main] DynamicArray - List: -23/3
+[DEBUG] 2017-12-08 14:04:34.047 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.047 [main] DynamicArray - List: -44/-1
+[DEBUG] 2017-12-08 14:04:34.048 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.048 [main] DynamicArray - List: 3*0
+[DEBUG] 2017-12-08 14:04:34.048 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.048 [main] DynamicArray - List: 0*-3
+[DEBUG] 2017-12-08 14:04:34.049 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.049 [main] DynamicArray - List: 0*-0
+[DEBUG] 2017-12-08 14:04:34.050 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.050 [main] DynamicArray - List: 3/0
+[DEBUG] 2017-12-08 14:04:34.050 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.050 [main] DynamicArray - List: 0/-3
+[DEBUG] 2017-12-08 14:04:34.050 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.050 [main] DynamicArray - List: 0/0
+[DEBUG] 2017-12-08 14:04:34.050 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.051 [main] DynamicArray - List: 3+2*(5*7)*0
+[DEBUG] 2017-12-08 14:04:34.051 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.051 [main] DynamicArray - List: (3*-3)
+[DEBUG] 2017-12-08 14:04:34.051 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.051 [main] DynamicArray - List: +2(3*-3)
+[DEBUG] 2017-12-08 14:04:34.051 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.052 [main] DynamicArray - List: 1.5*3
+[DEBUG] 2017-12-08 14:04:34.095 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.095 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.095 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.096 [main] DynamicArray - List: 1+3
+[DEBUG] 2017-12-08 14:04:34.096 [main] Evaluator - Infix Expression: 1+3
+[DEBUG] 2017-12-08 14:04:34.096 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.096 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.096 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.104 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.105 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.105 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.105 [main] DynamicArray - List: -1+-3
+[DEBUG] 2017-12-08 14:04:34.105 [main] Evaluator - Infix Expression: -1+-3
+[DEBUG] 2017-12-08 14:04:34.105 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.105 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.106 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.107 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.107 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.107 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.108 [main] DynamicArray - List: 1+-3
+[DEBUG] 2017-12-08 14:04:34.108 [main] Evaluator - Infix Expression: 1+-3
+[DEBUG] 2017-12-08 14:04:34.108 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.108 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.108 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.109 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.110 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.110 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.110 [main] DynamicArray - List: -1+3
+[DEBUG] 2017-12-08 14:04:34.110 [main] Evaluator - Infix Expression: -1+3
+[DEBUG] 2017-12-08 14:04:34.110 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.110 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.110 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.112 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.112 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.112 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.112 [main] DynamicArray - List: +1+3
+[DEBUG] 2017-12-08 14:04:34.112 [main] Evaluator - Infix Expression: +1+3
+[DEBUG] 2017-12-08 14:04:34.112 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.112 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.112 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.114 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.114 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.114 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.114 [main] DynamicArray - List: +1++3
+[DEBUG] 2017-12-08 14:04:34.114 [main] Evaluator - Infix Expression: +1++3
+[DEBUG] 2017-12-08 14:04:34.114 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.114 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.115 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.117 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.117 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.117 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.117 [main] DynamicArray - List: +1+3
+[DEBUG] 2017-12-08 14:04:34.117 [main] Evaluator - Infix Expression: +1+3
+[DEBUG] 2017-12-08 14:04:34.118 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.118 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.118 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.119 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.119 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.119 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.120 [main] DynamicArray - List: -400+-1
+[DEBUG] 2017-12-08 14:04:34.120 [main] Evaluator - Infix Expression: -400+-1
+[DEBUG] 2017-12-08 14:04:34.120 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.120 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.120 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.123 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.123 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.123 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.123 [main] DynamicArray - List: 1-3
+[DEBUG] 2017-12-08 14:04:34.123 [main] Evaluator - Infix Expression: 1-3
+[DEBUG] 2017-12-08 14:04:34.123 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.123 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.123 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.125 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.125 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.125 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.125 [main] DynamicArray - List: 1--3
+[DEBUG] 2017-12-08 14:04:34.125 [main] Evaluator - Infix Expression: 1--3
+[DEBUG] 2017-12-08 14:04:34.125 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.125 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.125 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.126 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.126 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.126 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.126 [main] DynamicArray - List: -1-3
+[DEBUG] 2017-12-08 14:04:34.126 [main] Evaluator - Infix Expression: -1-3
+[DEBUG] 2017-12-08 14:04:34.127 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.127 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.127 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.128 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.128 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.128 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.128 [main] DynamicArray - List: -400--1
+[DEBUG] 2017-12-08 14:04:34.129 [main] Evaluator - Infix Expression: -400--1
+[DEBUG] 2017-12-08 14:04:34.129 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.129 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.129 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.132 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.132 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.132 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.132 [main] DynamicArray - List: 3*3
+[DEBUG] 2017-12-08 14:04:34.132 [main] Evaluator - Infix Expression: 3*3
+[DEBUG] 2017-12-08 14:04:34.132 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.133 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.133 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.134 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.134 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.134 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.134 [main] DynamicArray - List: 5*-3
+[DEBUG] 2017-12-08 14:04:34.134 [main] Evaluator - Infix Expression: 5*-3
+[DEBUG] 2017-12-08 14:04:34.134 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.134 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.134 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.136 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.136 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.136 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.136 [main] DynamicArray - List: -23*3
+[DEBUG] 2017-12-08 14:04:34.136 [main] Evaluator - Infix Expression: -23*3
+[DEBUG] 2017-12-08 14:04:34.136 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.136 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.136 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.139 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.139 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.139 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.139 [main] DynamicArray - List: -44*-1
+[DEBUG] 2017-12-08 14:04:34.139 [main] Evaluator - Infix Expression: -44*-1
+[DEBUG] 2017-12-08 14:04:34.139 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.139 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.139 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.140 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.140 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.141 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.141 [main] DynamicArray - List: 3/3
+[DEBUG] 2017-12-08 14:04:34.141 [main] Evaluator - Infix Expression: 3/3
+[DEBUG] 2017-12-08 14:04:34.141 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.141 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.141 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.142 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.142 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.142 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.142 [main] DynamicArray - List: 5/-3
+[DEBUG] 2017-12-08 14:04:34.142 [main] Evaluator - Infix Expression: 5/-3
+[DEBUG] 2017-12-08 14:04:34.142 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.142 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.142 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.143 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.144 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.144 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.144 [main] DynamicArray - List: -23/3
+[DEBUG] 2017-12-08 14:04:34.144 [main] Evaluator - Infix Expression: -23/3
+[DEBUG] 2017-12-08 14:04:34.144 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.144 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.144 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.145 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.145 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.145 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.145 [main] DynamicArray - List: -44/-1
+[DEBUG] 2017-12-08 14:04:34.146 [main] Evaluator - Infix Expression: -44/-1
+[DEBUG] 2017-12-08 14:04:34.146 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.146 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.146 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.147 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.147 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.147 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.148 [main] DynamicArray - List: 3*0
+[DEBUG] 2017-12-08 14:04:34.148 [main] Evaluator - Infix Expression: 3*0
+[DEBUG] 2017-12-08 14:04:34.149 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.149 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.149 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.151 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.152 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.152 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.152 [main] DynamicArray - List: 0*-3
+[DEBUG] 2017-12-08 14:04:34.152 [main] Evaluator - Infix Expression: 0*-3
+[DEBUG] 2017-12-08 14:04:34.152 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.152 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.152 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.154 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.154 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.154 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.154 [main] DynamicArray - List: 0*-0
+[DEBUG] 2017-12-08 14:04:34.154 [main] Evaluator - Infix Expression: 0*-0
+[DEBUG] 2017-12-08 14:04:34.154 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.154 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.154 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.155 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.155 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.155 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.156 [main] DynamicArray - List: 3/0
+[DEBUG] 2017-12-08 14:04:34.156 [main] Evaluator - Infix Expression: 3/0
+[DEBUG] 2017-12-08 14:04:34.156 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.156 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.156 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.157 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.157 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.157 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.157 [main] DynamicArray - List: 0/-3
+[DEBUG] 2017-12-08 14:04:34.157 [main] Evaluator - Infix Expression: 0/-3
+[DEBUG] 2017-12-08 14:04:34.157 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.157 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.157 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.159 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.159 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.159 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.159 [main] DynamicArray - List: 0/0
+[DEBUG] 2017-12-08 14:04:34.159 [main] Evaluator - Infix Expression: 0/0
+[DEBUG] 2017-12-08 14:04:34.159 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.159 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.159 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.163 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.163 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.163 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.163 [main] DynamicArray - List: 3+2*(5*7)*0
+[DEBUG] 2017-12-08 14:04:34.163 [main] Evaluator - Infix Expression: 3+2*(5*7)*0
+[DEBUG] 2017-12-08 14:04:34.163 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.163 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.163 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.165 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.165 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.165 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.165 [main] DynamicArray - List: (3*-3)
+[DEBUG] 2017-12-08 14:04:34.165 [main] Evaluator - Infix Expression: (3*-3)
+[DEBUG] 2017-12-08 14:04:34.165 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.165 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.165 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.167 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.167 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.169 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.169 [main] DynamicArray - List: +2(3*-3)
+[DEBUG] 2017-12-08 14:04:34.169 [main] Evaluator - Infix Expression: +2(3*-3)
+[DEBUG] 2017-12-08 14:04:34.169 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.169 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.170 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:04:34.171 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:04:34.171 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:04:34.172 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:04:34.172 [main] DynamicArray - List: 1.5*3
+[DEBUG] 2017-12-08 14:04:34.172 [main] Evaluator - Infix Expression: 1.5*3
+[DEBUG] 2017-12-08 14:04:34.172 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.172 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:04:34.172 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:06:11.558 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.561 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.561 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:06:11.561 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.561 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:06:11.561 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.561 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.561 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.562 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.562 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.562 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:06:11.562 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.562 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:06:11.562 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.563 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:06:11.563 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.563 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.563 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.563 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:06:11.563 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.563 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:06:11.563 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.563 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:06:11.563 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.564 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.564 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.564 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:06:11.564 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.564 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:06:11.564 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.564 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.564 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.565 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.565 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.565 [main] DynamicArray - In push(): obj -> +1
+[DEBUG] 2017-12-08 14:06:11.565 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.565 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:06:11.565 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.565 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.565 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.565 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.566 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.566 [main] DynamicArray - In push(): obj -> +1
+[DEBUG] 2017-12-08 14:06:11.566 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.566 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:06:11.566 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.566 [main] DynamicArray - In push(): obj -> +3
+[DEBUG] 2017-12-08 14:06:11.566 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.566 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.566 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.566 [main] DynamicArray - In push(): obj -> +1
+[DEBUG] 2017-12-08 14:06:11.567 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.567 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:06:11.567 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.567 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.567 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.567 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.567 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.567 [main] DynamicArray - In push(): obj -> -400
+[DEBUG] 2017-12-08 14:06:11.567 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.568 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:06:11.568 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.568 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:06:11.568 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.568 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.568 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.568 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:06:11.568 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.568 [main] DynamicArray - In push(): obj -> -
+[DEBUG] 2017-12-08 14:06:11.569 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.569 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.569 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.569 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.569 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.569 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:06:11.569 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.569 [main] DynamicArray - In push(): obj -> -
+[DEBUG] 2017-12-08 14:06:11.569 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.570 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:06:11.570 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.570 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.570 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.570 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:06:11.570 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.570 [main] DynamicArray - In push(): obj -> -
+[DEBUG] 2017-12-08 14:06:11.570 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.570 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.570 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.570 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.571 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.571 [main] DynamicArray - In push(): obj -> -400
+[DEBUG] 2017-12-08 14:06:11.571 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.571 [main] DynamicArray - In push(): obj -> -
+[DEBUG] 2017-12-08 14:06:11.571 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.571 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:06:11.571 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.571 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.571 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.571 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.572 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.572 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:06:11.572 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.572 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.572 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.572 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.572 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.573 [main] DynamicArray - In push(): obj -> 5
+[DEBUG] 2017-12-08 14:06:11.573 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.573 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:06:11.573 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.573 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:06:11.573 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.573 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.573 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.573 [main] DynamicArray - In push(): obj -> -23
+[DEBUG] 2017-12-08 14:06:11.573 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.574 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:06:11.574 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.574 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.574 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.574 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.574 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.574 [main] DynamicArray - In push(): obj -> -44
+[DEBUG] 2017-12-08 14:06:11.574 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.574 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:06:11.575 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.575 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:06:11.575 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.575 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.575 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.575 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.575 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.575 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:06:11.575 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.576 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.576 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.576 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.576 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.576 [main] DynamicArray - In push(): obj -> 5
+[DEBUG] 2017-12-08 14:06:11.576 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.576 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:06:11.576 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.576 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:06:11.576 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.576 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.577 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.577 [main] DynamicArray - In push(): obj -> -23
+[DEBUG] 2017-12-08 14:06:11.577 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.577 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:06:11.577 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.577 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.577 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.577 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.577 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.577 [main] DynamicArray - In push(): obj -> -44
+[DEBUG] 2017-12-08 14:06:11.578 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.578 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:06:11.578 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.578 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:06:11.578 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.578 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.578 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.578 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.578 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.578 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:06:11.578 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.579 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:06:11.579 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.579 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.579 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.579 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:06:11.579 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.579 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:06:11.579 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.579 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:06:11.580 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.580 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.580 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.580 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:06:11.580 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.580 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:06:11.580 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.580 [main] DynamicArray - In push(): obj -> -0
+[DEBUG] 2017-12-08 14:06:11.580 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.580 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.580 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.581 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.581 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.581 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:06:11.581 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.581 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:06:11.581 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.581 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.581 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.581 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:06:11.581 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.582 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:06:11.582 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.582 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:06:11.582 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.582 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.582 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.582 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:06:11.582 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.582 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:06:11.582 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.582 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:06:11.582 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.583 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.583 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.583 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.583 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.583 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:06:11.583 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.583 [main] DynamicArray - In push(): obj -> 2
+[DEBUG] 2017-12-08 14:06:11.583 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.583 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:06:11.583 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.583 [main] DynamicArray - In push(): obj -> (
+[DEBUG] 2017-12-08 14:06:11.583 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.583 [main] DynamicArray - In push(): obj -> 5
+[DEBUG] 2017-12-08 14:06:11.583 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.583 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In push(): obj -> 7
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In push(): obj -> )
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In push(): obj -> (
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.584 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:06:11.585 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.585 [main] DynamicArray - In push(): obj -> )
+[DEBUG] 2017-12-08 14:06:11.585 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.585 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.585 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.585 [main] DynamicArray - In push(): obj -> +2
+[DEBUG] 2017-12-08 14:06:11.585 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.585 [main] DynamicArray - In push(): obj -> (
+[DEBUG] 2017-12-08 14:06:11.585 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.585 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.585 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.585 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:06:11.585 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.585 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:06:11.586 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.586 [main] DynamicArray - In push(): obj -> )
+[DEBUG] 2017-12-08 14:06:11.586 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.586 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.587 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:06:11.587 [main] DynamicArray - In push(): obj -> 1.5
+[DEBUG] 2017-12-08 14:06:11.587 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.587 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:06:11.587 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.587 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:06:11.587 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:06:11.588 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.588 [main] DynamicArray - List: 1+3
+[DEBUG] 2017-12-08 14:06:11.589 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.589 [main] DynamicArray - List: -1+-3
+[DEBUG] 2017-12-08 14:06:11.589 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.589 [main] DynamicArray - List: 1+-3
+[DEBUG] 2017-12-08 14:06:11.589 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.590 [main] DynamicArray - List: -1+3
+[DEBUG] 2017-12-08 14:06:11.590 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.590 [main] DynamicArray - List: +1+3
+[DEBUG] 2017-12-08 14:06:11.590 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.590 [main] DynamicArray - List: +1++3
+[DEBUG] 2017-12-08 14:06:11.590 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.590 [main] DynamicArray - List: +1+3
+[DEBUG] 2017-12-08 14:06:11.590 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.590 [main] DynamicArray - List: -400+-1
+[DEBUG] 2017-12-08 14:06:11.590 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.590 [main] DynamicArray - List: 1-3
+[DEBUG] 2017-12-08 14:06:11.591 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.591 [main] DynamicArray - List: 1--3
+[DEBUG] 2017-12-08 14:06:11.591 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.591 [main] DynamicArray - List: -1-3
+[DEBUG] 2017-12-08 14:06:11.591 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.591 [main] DynamicArray - List: -400--1
+[DEBUG] 2017-12-08 14:06:11.591 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.591 [main] DynamicArray - List: 3*3
+[DEBUG] 2017-12-08 14:06:11.591 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.592 [main] DynamicArray - List: 5*-3
+[DEBUG] 2017-12-08 14:06:11.592 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.592 [main] DynamicArray - List: -23*3
+[DEBUG] 2017-12-08 14:06:11.592 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.592 [main] DynamicArray - List: -44*-1
+[DEBUG] 2017-12-08 14:06:11.592 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.592 [main] DynamicArray - List: 3/3
+[DEBUG] 2017-12-08 14:06:11.592 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.592 [main] DynamicArray - List: 5/-3
+[DEBUG] 2017-12-08 14:06:11.592 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.593 [main] DynamicArray - List: -23/3
+[DEBUG] 2017-12-08 14:06:11.593 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.593 [main] DynamicArray - List: -44/-1
+[DEBUG] 2017-12-08 14:06:11.593 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.593 [main] DynamicArray - List: 3*0
+[DEBUG] 2017-12-08 14:06:11.593 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.593 [main] DynamicArray - List: 0*-3
+[DEBUG] 2017-12-08 14:06:11.593 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.594 [main] DynamicArray - List: 0*-0
+[DEBUG] 2017-12-08 14:06:11.594 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.594 [main] DynamicArray - List: 3/0
+[DEBUG] 2017-12-08 14:06:11.594 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.594 [main] DynamicArray - List: 0/-3
+[DEBUG] 2017-12-08 14:06:11.594 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.594 [main] DynamicArray - List: 0/0
+[DEBUG] 2017-12-08 14:06:11.594 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.596 [main] DynamicArray - List: 3+2*(5*7)*0
+[DEBUG] 2017-12-08 14:06:11.597 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.597 [main] DynamicArray - List: (3*-3)
+[DEBUG] 2017-12-08 14:06:11.597 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.597 [main] DynamicArray - List: +2(3*-3)
+[DEBUG] 2017-12-08 14:06:11.597 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.597 [main] DynamicArray - List: 1.5*3
+[DEBUG] 2017-12-08 14:06:11.635 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:06:11.635 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:06:11.635 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:06:11.635 [main] DynamicArray - List: 1+3
+[DEBUG] 2017-12-08 14:06:11.636 [main] Evaluator - Infix Expression: 1+3
+[DEBUG] 2017-12-08 14:06:11.636 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.636 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:06:11.636 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:06:11.636 [main] DynamicArray - Start pointer: 2
+[DEBUG] 2017-12-08 14:08:45.498 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.500 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.500 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:08:45.500 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.500 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:08:45.500 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.500 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.501 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.501 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.502 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.502 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:08:45.502 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.502 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:08:45.502 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.502 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:08:45.502 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.502 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.503 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.503 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:08:45.503 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.503 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:08:45.503 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.503 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:08:45.503 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.503 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.503 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.503 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:08:45.503 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.504 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:08:45.504 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.504 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.504 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.504 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.504 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.504 [main] DynamicArray - In push(): obj -> +1
+[DEBUG] 2017-12-08 14:08:45.504 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.504 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:08:45.504 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.504 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.504 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.504 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.504 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.505 [main] DynamicArray - In push(): obj -> +1
+[DEBUG] 2017-12-08 14:08:45.505 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.507 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:08:45.507 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.507 [main] DynamicArray - In push(): obj -> +3
+[DEBUG] 2017-12-08 14:08:45.507 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.507 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.508 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.508 [main] DynamicArray - In push(): obj -> +1
+[DEBUG] 2017-12-08 14:08:45.508 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.508 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:08:45.508 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.508 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.508 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.509 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.509 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.509 [main] DynamicArray - In push(): obj -> -400
+[DEBUG] 2017-12-08 14:08:45.509 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.509 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:08:45.509 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.509 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:08:45.509 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.510 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.510 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.510 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:08:45.510 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.510 [main] DynamicArray - In push(): obj -> -
+[DEBUG] 2017-12-08 14:08:45.510 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.510 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.510 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.510 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.510 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.510 [main] DynamicArray - In push(): obj -> 1
+[DEBUG] 2017-12-08 14:08:45.510 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.510 [main] DynamicArray - In push(): obj -> -
+[DEBUG] 2017-12-08 14:08:45.510 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.511 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:08:45.511 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.511 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.511 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.511 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:08:45.511 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.511 [main] DynamicArray - In push(): obj -> -
+[DEBUG] 2017-12-08 14:08:45.511 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.511 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.511 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.511 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.512 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.512 [main] DynamicArray - In push(): obj -> -400
+[DEBUG] 2017-12-08 14:08:45.512 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.512 [main] DynamicArray - In push(): obj -> -
+[DEBUG] 2017-12-08 14:08:45.512 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.512 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:08:45.512 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.512 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.512 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.513 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.513 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.513 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:08:45.513 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.513 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.513 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.513 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.514 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.514 [main] DynamicArray - In push(): obj -> 5
+[DEBUG] 2017-12-08 14:08:45.514 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.514 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:08:45.514 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.514 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:08:45.514 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.514 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.515 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.515 [main] DynamicArray - In push(): obj -> -23
+[DEBUG] 2017-12-08 14:08:45.515 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.515 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:08:45.515 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.515 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.515 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.515 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.516 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.516 [main] DynamicArray - In push(): obj -> -44
+[DEBUG] 2017-12-08 14:08:45.516 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.516 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:08:45.516 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.516 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:08:45.516 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.517 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.517 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.517 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.517 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.517 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:08:45.517 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.517 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.517 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.517 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.518 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.518 [main] DynamicArray - In push(): obj -> 5
+[DEBUG] 2017-12-08 14:08:45.518 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.518 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:08:45.518 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.518 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:08:45.518 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.518 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.518 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.518 [main] DynamicArray - In push(): obj -> -23
+[DEBUG] 2017-12-08 14:08:45.518 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.518 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:08:45.518 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.518 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.518 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.518 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.519 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.519 [main] DynamicArray - In push(): obj -> -44
+[DEBUG] 2017-12-08 14:08:45.519 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.519 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:08:45.519 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.519 [main] DynamicArray - In push(): obj -> -1
+[DEBUG] 2017-12-08 14:08:45.519 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.519 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.519 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.519 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.520 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.520 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:08:45.520 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.520 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:08:45.520 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.520 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.520 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.520 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:08:45.520 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.520 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:08:45.520 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.520 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:08:45.520 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.520 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.520 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.521 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:08:45.521 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.521 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:08:45.521 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.521 [main] DynamicArray - In push(): obj -> -0
+[DEBUG] 2017-12-08 14:08:45.521 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.521 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.521 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.521 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.521 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.522 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:08:45.522 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.522 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:08:45.522 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.527 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.528 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.528 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:08:45.528 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.528 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:08:45.528 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.528 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:08:45.528 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.528 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.528 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.528 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:08:45.528 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.528 [main] DynamicArray - In push(): obj -> /
+[DEBUG] 2017-12-08 14:08:45.529 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.529 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:08:45.529 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.529 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.529 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.529 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.529 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.529 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:08:45.529 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.529 [main] DynamicArray - In push(): obj -> 2
+[DEBUG] 2017-12-08 14:08:45.529 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.530 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:08:45.530 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.530 [main] DynamicArray - In push(): obj -> (
+[DEBUG] 2017-12-08 14:08:45.530 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.530 [main] DynamicArray - In push(): obj -> 5
+[DEBUG] 2017-12-08 14:08:45.530 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.530 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:08:45.530 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.531 [main] DynamicArray - In push(): obj -> 7
+[DEBUG] 2017-12-08 14:08:45.531 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.531 [main] DynamicArray - In push(): obj -> )
+[DEBUG] 2017-12-08 14:08:45.531 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.531 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:08:45.531 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.531 [main] DynamicArray - In push(): obj -> 0
+[DEBUG] 2017-12-08 14:08:45.531 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.531 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.532 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.532 [main] DynamicArray - In push(): obj -> (
+[DEBUG] 2017-12-08 14:08:45.532 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.532 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.532 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.532 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:08:45.532 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.532 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:08:45.532 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.532 [main] DynamicArray - In push(): obj -> )
+[DEBUG] 2017-12-08 14:08:45.532 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.532 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.533 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.533 [main] DynamicArray - In push(): obj -> +2
+[DEBUG] 2017-12-08 14:08:45.533 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.533 [main] DynamicArray - In push(): obj -> (
+[DEBUG] 2017-12-08 14:08:45.533 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.533 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.533 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.533 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:08:45.533 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.533 [main] DynamicArray - In push(): obj -> -3
+[DEBUG] 2017-12-08 14:08:45.534 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.534 [main] DynamicArray - In push(): obj -> )
+[DEBUG] 2017-12-08 14:08:45.534 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.534 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.534 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:08:45.534 [main] DynamicArray - In push(): obj -> 1.5
+[DEBUG] 2017-12-08 14:08:45.534 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.535 [main] DynamicArray - In push(): obj -> *
+[DEBUG] 2017-12-08 14:08:45.535 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.535 [main] DynamicArray - In push(): obj -> 3
+[DEBUG] 2017-12-08 14:08:45.535 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:08:45.536 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.536 [main] DynamicArray - List: 1+3
+[DEBUG] 2017-12-08 14:08:45.537 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.537 [main] DynamicArray - List: -1+-3
+[DEBUG] 2017-12-08 14:08:45.537 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.537 [main] DynamicArray - List: 1+-3
+[DEBUG] 2017-12-08 14:08:45.537 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.537 [main] DynamicArray - List: -1+3
+[DEBUG] 2017-12-08 14:08:45.537 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.538 [main] DynamicArray - List: +1+3
+[DEBUG] 2017-12-08 14:08:45.538 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.538 [main] DynamicArray - List: +1++3
+[DEBUG] 2017-12-08 14:08:45.538 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.538 [main] DynamicArray - List: +1+3
+[DEBUG] 2017-12-08 14:08:45.538 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.538 [main] DynamicArray - List: -400+-1
+[DEBUG] 2017-12-08 14:08:45.538 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.538 [main] DynamicArray - List: 1-3
+[DEBUG] 2017-12-08 14:08:45.538 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.538 [main] DynamicArray - List: 1--3
+[DEBUG] 2017-12-08 14:08:45.539 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.539 [main] DynamicArray - List: -1-3
+[DEBUG] 2017-12-08 14:08:45.539 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.539 [main] DynamicArray - List: -400--1
+[DEBUG] 2017-12-08 14:08:45.539 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.539 [main] DynamicArray - List: 3*3
+[DEBUG] 2017-12-08 14:08:45.539 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.539 [main] DynamicArray - List: 5*-3
+[DEBUG] 2017-12-08 14:08:45.539 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.540 [main] DynamicArray - List: -23*3
+[DEBUG] 2017-12-08 14:08:45.540 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.540 [main] DynamicArray - List: -44*-1
+[DEBUG] 2017-12-08 14:08:45.540 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.540 [main] DynamicArray - List: 3/3
+[DEBUG] 2017-12-08 14:08:45.540 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.540 [main] DynamicArray - List: 5/-3
+[DEBUG] 2017-12-08 14:08:45.540 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.540 [main] DynamicArray - List: -23/3
+[DEBUG] 2017-12-08 14:08:45.541 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.541 [main] DynamicArray - List: -44/-1
+[DEBUG] 2017-12-08 14:08:45.541 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.541 [main] DynamicArray - List: 3*0
+[DEBUG] 2017-12-08 14:08:45.541 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.541 [main] DynamicArray - List: 0*-3
+[DEBUG] 2017-12-08 14:08:45.541 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.541 [main] DynamicArray - List: 0*-0
+[DEBUG] 2017-12-08 14:08:45.541 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.541 [main] DynamicArray - List: 3/0
+[DEBUG] 2017-12-08 14:08:45.542 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.542 [main] DynamicArray - List: 0/-3
+[DEBUG] 2017-12-08 14:08:45.542 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.542 [main] DynamicArray - List: 0/0
+[DEBUG] 2017-12-08 14:08:45.542 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.542 [main] DynamicArray - List: 3+2*(5*7)*0
+[DEBUG] 2017-12-08 14:08:45.542 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.542 [main] DynamicArray - List: (3*-3)
+[DEBUG] 2017-12-08 14:08:45.543 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.543 [main] DynamicArray - List: +2(3*-3)
+[DEBUG] 2017-12-08 14:08:45.543 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.543 [main] DynamicArray - List: 1.5*3
+[DEBUG] 2017-12-08 14:08:45.576 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:08:45.576 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:08:45.576 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:08:45.576 [main] DynamicArray - List: 1+3
+[DEBUG] 2017-12-08 14:08:45.576 [main] Evaluator - Infix Expression: 1+3
+[DEBUG] 2017-12-08 14:08:45.576 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.577 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:08:45.577 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:08:45.577 [main] DynamicArray - Start pointer: 2
+[DEBUG] 2017-12-08 14:11:33.027 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.033 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.033 [main] DynamicArray - In add(): obj -> 1
+[DEBUG] 2017-12-08 14:11:33.033 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.033 [main] DynamicArray - In add(): obj -> +
+[DEBUG] 2017-12-08 14:11:33.033 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.034 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.034 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.035 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.035 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.035 [main] DynamicArray - In add(): obj -> -1
+[DEBUG] 2017-12-08 14:11:33.035 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.036 [main] DynamicArray - In add(): obj -> +
+[DEBUG] 2017-12-08 14:11:33.036 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.036 [main] DynamicArray - In add(): obj -> -3
+[DEBUG] 2017-12-08 14:11:33.036 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.036 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.036 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.036 [main] DynamicArray - In add(): obj -> 1
+[DEBUG] 2017-12-08 14:11:33.036 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.037 [main] DynamicArray - In add(): obj -> +
+[DEBUG] 2017-12-08 14:11:33.037 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.037 [main] DynamicArray - In add(): obj -> -3
+[DEBUG] 2017-12-08 14:11:33.037 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.037 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.037 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.037 [main] DynamicArray - In add(): obj -> -1
+[DEBUG] 2017-12-08 14:11:33.038 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.038 [main] DynamicArray - In add(): obj -> +
+[DEBUG] 2017-12-08 14:11:33.038 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.038 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.038 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.038 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.038 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.038 [main] DynamicArray - In add(): obj -> +1
+[DEBUG] 2017-12-08 14:11:33.039 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.039 [main] DynamicArray - In add(): obj -> +
+[DEBUG] 2017-12-08 14:11:33.039 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.039 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.039 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.040 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.040 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.040 [main] DynamicArray - In add(): obj -> +1
+[DEBUG] 2017-12-08 14:11:33.040 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.040 [main] DynamicArray - In add(): obj -> +
+[DEBUG] 2017-12-08 14:11:33.041 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.041 [main] DynamicArray - In add(): obj -> +3
+[DEBUG] 2017-12-08 14:11:33.041 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.042 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.043 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.043 [main] DynamicArray - In add(): obj -> +1
+[DEBUG] 2017-12-08 14:11:33.044 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.044 [main] DynamicArray - In add(): obj -> +
+[DEBUG] 2017-12-08 14:11:33.044 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.044 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.044 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.044 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.044 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.045 [main] DynamicArray - In add(): obj -> -400
+[DEBUG] 2017-12-08 14:11:33.045 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.045 [main] DynamicArray - In add(): obj -> +
+[DEBUG] 2017-12-08 14:11:33.045 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.045 [main] DynamicArray - In add(): obj -> -1
+[DEBUG] 2017-12-08 14:11:33.045 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.045 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.045 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.046 [main] DynamicArray - In add(): obj -> 1
+[DEBUG] 2017-12-08 14:11:33.046 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.046 [main] DynamicArray - In add(): obj -> -
+[DEBUG] 2017-12-08 14:11:33.046 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.046 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.046 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.046 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.046 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.046 [main] DynamicArray - In add(): obj -> 1
+[DEBUG] 2017-12-08 14:11:33.047 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.047 [main] DynamicArray - In add(): obj -> -
+[DEBUG] 2017-12-08 14:11:33.047 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.047 [main] DynamicArray - In add(): obj -> -3
+[DEBUG] 2017-12-08 14:11:33.047 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.047 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.047 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.047 [main] DynamicArray - In add(): obj -> -1
+[DEBUG] 2017-12-08 14:11:33.047 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.048 [main] DynamicArray - In add(): obj -> -
+[DEBUG] 2017-12-08 14:11:33.048 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.048 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.048 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.048 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.048 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.048 [main] DynamicArray - In add(): obj -> -400
+[DEBUG] 2017-12-08 14:11:33.048 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.048 [main] DynamicArray - In add(): obj -> -
+[DEBUG] 2017-12-08 14:11:33.049 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.049 [main] DynamicArray - In add(): obj -> -1
+[DEBUG] 2017-12-08 14:11:33.049 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.049 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.049 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.049 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.050 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.050 [main] DynamicArray - In add(): obj -> *
+[DEBUG] 2017-12-08 14:11:33.050 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.050 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.050 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.050 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.050 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.051 [main] DynamicArray - In add(): obj -> 5
+[DEBUG] 2017-12-08 14:11:33.051 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.051 [main] DynamicArray - In add(): obj -> *
+[DEBUG] 2017-12-08 14:11:33.051 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.051 [main] DynamicArray - In add(): obj -> -3
+[DEBUG] 2017-12-08 14:11:33.051 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.051 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.051 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.051 [main] DynamicArray - In add(): obj -> -23
+[DEBUG] 2017-12-08 14:11:33.051 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.052 [main] DynamicArray - In add(): obj -> *
+[DEBUG] 2017-12-08 14:11:33.052 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.052 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.052 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.052 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.052 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.052 [main] DynamicArray - In add(): obj -> -44
+[DEBUG] 2017-12-08 14:11:33.052 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.052 [main] DynamicArray - In add(): obj -> *
+[DEBUG] 2017-12-08 14:11:33.052 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.053 [main] DynamicArray - In add(): obj -> -1
+[DEBUG] 2017-12-08 14:11:33.053 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.053 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.053 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.053 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.053 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.053 [main] DynamicArray - In add(): obj -> /
+[DEBUG] 2017-12-08 14:11:33.053 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.054 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.054 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.054 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.054 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.054 [main] DynamicArray - In add(): obj -> 5
+[DEBUG] 2017-12-08 14:11:33.054 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.054 [main] DynamicArray - In add(): obj -> /
+[DEBUG] 2017-12-08 14:11:33.054 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.054 [main] DynamicArray - In add(): obj -> -3
+[DEBUG] 2017-12-08 14:11:33.054 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.054 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.055 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.055 [main] DynamicArray - In add(): obj -> -23
+[DEBUG] 2017-12-08 14:11:33.055 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.055 [main] DynamicArray - In add(): obj -> /
+[DEBUG] 2017-12-08 14:11:33.055 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.055 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.055 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.055 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.055 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.055 [main] DynamicArray - In add(): obj -> -44
+[DEBUG] 2017-12-08 14:11:33.055 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.055 [main] DynamicArray - In add(): obj -> /
+[DEBUG] 2017-12-08 14:11:33.055 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.056 [main] DynamicArray - In add(): obj -> -1
+[DEBUG] 2017-12-08 14:11:33.056 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.056 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.056 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.056 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.056 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.056 [main] DynamicArray - In add(): obj -> *
+[DEBUG] 2017-12-08 14:11:33.056 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.056 [main] DynamicArray - In add(): obj -> 0
+[DEBUG] 2017-12-08 14:11:33.056 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.056 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.057 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.057 [main] DynamicArray - In add(): obj -> 0
+[DEBUG] 2017-12-08 14:11:33.057 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.057 [main] DynamicArray - In add(): obj -> *
+[DEBUG] 2017-12-08 14:11:33.057 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.057 [main] DynamicArray - In add(): obj -> -3
+[DEBUG] 2017-12-08 14:11:33.057 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.057 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.057 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.058 [main] DynamicArray - In add(): obj -> 0
+[DEBUG] 2017-12-08 14:11:33.058 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.058 [main] DynamicArray - In add(): obj -> *
+[DEBUG] 2017-12-08 14:11:33.058 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.058 [main] DynamicArray - In add(): obj -> -0
+[DEBUG] 2017-12-08 14:11:33.058 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.058 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.058 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.058 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.058 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.058 [main] DynamicArray - In add(): obj -> /
+[DEBUG] 2017-12-08 14:11:33.059 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.059 [main] DynamicArray - In add(): obj -> 0
+[DEBUG] 2017-12-08 14:11:33.059 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.061 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.062 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.062 [main] DynamicArray - In add(): obj -> 0
+[DEBUG] 2017-12-08 14:11:33.062 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.062 [main] DynamicArray - In add(): obj -> /
+[DEBUG] 2017-12-08 14:11:33.062 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.062 [main] DynamicArray - In add(): obj -> -3
+[DEBUG] 2017-12-08 14:11:33.062 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.063 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.063 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.063 [main] DynamicArray - In add(): obj -> 0
+[DEBUG] 2017-12-08 14:11:33.063 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.063 [main] DynamicArray - In add(): obj -> /
+[DEBUG] 2017-12-08 14:11:33.063 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.063 [main] DynamicArray - In add(): obj -> 0
+[DEBUG] 2017-12-08 14:11:33.063 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.063 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.063 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.064 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.064 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.064 [main] DynamicArray - In add(): obj -> +
+[DEBUG] 2017-12-08 14:11:33.064 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.064 [main] DynamicArray - In add(): obj -> 2
+[DEBUG] 2017-12-08 14:11:33.064 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.064 [main] DynamicArray - In add(): obj -> *
+[DEBUG] 2017-12-08 14:11:33.064 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.064 [main] DynamicArray - In add(): obj -> (
+[DEBUG] 2017-12-08 14:11:33.064 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.064 [main] DynamicArray - In add(): obj -> 5
+[DEBUG] 2017-12-08 14:11:33.064 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.064 [main] DynamicArray - In add(): obj -> *
+[DEBUG] 2017-12-08 14:11:33.064 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.064 [main] DynamicArray - In add(): obj -> 7
+[DEBUG] 2017-12-08 14:11:33.065 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.065 [main] DynamicArray - In add(): obj -> )
+[DEBUG] 2017-12-08 14:11:33.065 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.065 [main] DynamicArray - In add(): obj -> *
+[DEBUG] 2017-12-08 14:11:33.065 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.065 [main] DynamicArray - In add(): obj -> 0
+[DEBUG] 2017-12-08 14:11:33.065 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.065 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.065 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.065 [main] DynamicArray - In add(): obj -> (
+[DEBUG] 2017-12-08 14:11:33.065 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.065 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.065 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.065 [main] DynamicArray - In add(): obj -> *
+[DEBUG] 2017-12-08 14:11:33.066 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.066 [main] DynamicArray - In add(): obj -> -3
+[DEBUG] 2017-12-08 14:11:33.066 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.066 [main] DynamicArray - In add(): obj -> )
+[DEBUG] 2017-12-08 14:11:33.066 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.066 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.066 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.066 [main] DynamicArray - In add(): obj -> +2
+[DEBUG] 2017-12-08 14:11:33.066 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.066 [main] DynamicArray - In add(): obj -> (
+[DEBUG] 2017-12-08 14:11:33.066 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.066 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.066 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.067 [main] DynamicArray - In add(): obj -> *
+[DEBUG] 2017-12-08 14:11:33.067 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.067 [main] DynamicArray - In add(): obj -> -3
+[DEBUG] 2017-12-08 14:11:33.067 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.068 [main] DynamicArray - In add(): obj -> )
+[DEBUG] 2017-12-08 14:11:33.069 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.069 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.069 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.069 [main] DynamicArray - In add(): obj -> 1.5
+[DEBUG] 2017-12-08 14:11:33.069 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.069 [main] DynamicArray - In add(): obj -> *
+[DEBUG] 2017-12-08 14:11:33.070 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.070 [main] DynamicArray - In add(): obj -> 3
+[DEBUG] 2017-12-08 14:11:33.070 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.071 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.071 [main] DynamicArray - List: 1+3
+[DEBUG] 2017-12-08 14:11:33.073 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.073 [main] DynamicArray - List: -1+-3
+[DEBUG] 2017-12-08 14:11:33.073 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.073 [main] DynamicArray - List: 1+-3
+[DEBUG] 2017-12-08 14:11:33.074 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.074 [main] DynamicArray - List: -1+3
+[DEBUG] 2017-12-08 14:11:33.074 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.074 [main] DynamicArray - List: +1+3
+[DEBUG] 2017-12-08 14:11:33.074 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.074 [main] DynamicArray - List: +1++3
+[DEBUG] 2017-12-08 14:11:33.075 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.075 [main] DynamicArray - List: +1+3
+[DEBUG] 2017-12-08 14:11:33.075 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.075 [main] DynamicArray - List: -400+-1
+[DEBUG] 2017-12-08 14:11:33.075 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.075 [main] DynamicArray - List: 1-3
+[DEBUG] 2017-12-08 14:11:33.075 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.076 [main] DynamicArray - List: 1--3
+[DEBUG] 2017-12-08 14:11:33.076 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.076 [main] DynamicArray - List: -1-3
+[DEBUG] 2017-12-08 14:11:33.076 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.076 [main] DynamicArray - List: -400--1
+[DEBUG] 2017-12-08 14:11:33.076 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.076 [main] DynamicArray - List: 3*3
+[DEBUG] 2017-12-08 14:11:33.077 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.077 [main] DynamicArray - List: 5*-3
+[DEBUG] 2017-12-08 14:11:33.077 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.077 [main] DynamicArray - List: -23*3
+[DEBUG] 2017-12-08 14:11:33.077 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.077 [main] DynamicArray - List: -44*-1
+[DEBUG] 2017-12-08 14:11:33.077 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.077 [main] DynamicArray - List: 3/3
+[DEBUG] 2017-12-08 14:11:33.078 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.078 [main] DynamicArray - List: 5/-3
+[DEBUG] 2017-12-08 14:11:33.078 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.078 [main] DynamicArray - List: -23/3
+[DEBUG] 2017-12-08 14:11:33.078 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.078 [main] DynamicArray - List: -44/-1
+[DEBUG] 2017-12-08 14:11:33.078 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.078 [main] DynamicArray - List: 3*0
+[DEBUG] 2017-12-08 14:11:33.079 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.079 [main] DynamicArray - List: 0*-3
+[DEBUG] 2017-12-08 14:11:33.080 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.080 [main] DynamicArray - List: 0*-0
+[DEBUG] 2017-12-08 14:11:33.080 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.080 [main] DynamicArray - List: 3/0
+[DEBUG] 2017-12-08 14:11:33.080 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.080 [main] DynamicArray - List: 0/-3
+[DEBUG] 2017-12-08 14:11:33.081 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.081 [main] DynamicArray - List: 0/0
+[DEBUG] 2017-12-08 14:11:33.081 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.081 [main] DynamicArray - List: 3+2*(5*7)*0
+[DEBUG] 2017-12-08 14:11:33.082 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.083 [main] DynamicArray - List: (3*-3)
+[DEBUG] 2017-12-08 14:11:33.083 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.083 [main] DynamicArray - List: +2(3*-3)
+[DEBUG] 2017-12-08 14:11:33.083 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.083 [main] DynamicArray - List: 1.5*3
+[DEBUG] 2017-12-08 14:11:33.137 [main] Evaluator - In Evaluator constructor
+[DEBUG] 2017-12-08 14:11:33.137 [main] Evaluator - In evaluate
+[DEBUG] 2017-12-08 14:11:33.137 [main] DynamicArray - toString()
+[DEBUG] 2017-12-08 14:11:33.137 [main] DynamicArray - List: 1+3
+[DEBUG] 2017-12-08 14:11:33.137 [main] Evaluator - Infix Expression: 1+3
+[DEBUG] 2017-12-08 14:11:33.137 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.137 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.138 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:11:33.138 [main] DynamicArray - Start pointer: -1
+[DEBUG] 2017-12-08 14:11:33.138 [main] DynamicArray - In remove(int positon): position ->0
+[DEBUG] 2017-12-08 14:11:33.138 [main] DynamicArray - index of item: 1
+[DEBUG] 2017-12-08 14:11:33.138 [main] DynamicArray - index of item: 2
+[DEBUG] 2017-12-08 14:11:33.138 [main] DynamicArray - Removed: 1
+[DEBUG] 2017-12-08 14:11:33.138 [main] DynamicArray - Removed(): 1
+[DEBUG] 2017-12-08 14:11:33.138 [main] Evaluator - Symbol value: 1
+[DEBUG] 2017-12-08 14:11:33.138 [main] Evaluator - In case operand
+[DEBUG] 2017-12-08 14:11:33.138 [main] Evaluator - In pushOperand(operand= 1)
+[DEBUG] 2017-12-08 14:11:33.138 [main] DynamicArray - In add(): obj -> 1.0
+[DEBUG] 2017-12-08 14:11:33.139 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.139 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:11:33.139 [main] DynamicArray - Start pointer: -1
+[DEBUG] 2017-12-08 14:11:33.139 [main] DynamicArray - In remove(int positon): position ->0
+[DEBUG] 2017-12-08 14:11:33.139 [main] DynamicArray - index of item: 1
+[DEBUG] 2017-12-08 14:11:33.139 [main] DynamicArray - Removed: +
+[DEBUG] 2017-12-08 14:11:33.139 [main] DynamicArray - Removed(): +
+[DEBUG] 2017-12-08 14:11:33.139 [main] Evaluator - Symbol value: +
+[DEBUG] 2017-12-08 14:11:33.139 [main] Evaluator - In case '+' or '-'
+[DEBUG] 2017-12-08 14:11:33.139 [main] Evaluator - In validParenthesis
+[DEBUG] 2017-12-08 14:11:33.139 [main] Evaluator - In pushOperator(operator= +, isInParenthesis=false)
+[DEBUG] 2017-12-08 14:11:33.139 [main] Evaluator - In pushLowPrecedenceOperator(newOperator= +)
+[DEBUG] 2017-12-08 14:11:33.139 [main] DynamicArray - In push(): obj -> +
+[DEBUG] 2017-12-08 14:11:33.139 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:11:33.139 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:11:33.140 [main] DynamicArray - Start pointer: -1
+[DEBUG] 2017-12-08 14:11:33.140 [main] DynamicArray - In remove(int positon): position ->0
+[DEBUG] 2017-12-08 14:11:33.140 [main] DynamicArray - Removed: 3
+[DEBUG] 2017-12-08 14:11:33.140 [main] DynamicArray - Removed(): 3
+[DEBUG] 2017-12-08 14:11:33.140 [main] Evaluator - Symbol value: 3
+[DEBUG] 2017-12-08 14:11:33.140 [main] Evaluator - In case operand
+[DEBUG] 2017-12-08 14:11:33.140 [main] Evaluator - In pushOperand(operand= 3)
+[DEBUG] 2017-12-08 14:11:33.140 [main] DynamicArray - In add(): obj -> 3.0
+[DEBUG] 2017-12-08 14:11:33.140 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.140 [main] Evaluator - In calculate()
+[DEBUG] 2017-12-08 14:11:33.140 [main] Evaluator - In getPostfix()
+[DEBUG] 2017-12-08 14:11:33.140 [main] DynamicArray - In pop()
+[DEBUG] 2017-12-08 14:11:33.140 [main] DynamicArray - In remove(int positon): position ->0
+[DEBUG] 2017-12-08 14:11:33.140 [main] DynamicArray - Removed: +
+[DEBUG] 2017-12-08 14:11:33.140 [main] DynamicArray - In add(): obj -> +
+[DEBUG] 2017-12-08 14:11:33.141 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.141 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.141 [main] DynamicArray - In element()
+[DEBUG] 2017-12-08 14:11:33.141 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:11:33.141 [main] DynamicArray - Start pointer: -1
+[DEBUG] 2017-12-08 14:11:33.141 [main] DynamicArray - In remove(int positon): position ->0
+[DEBUG] 2017-12-08 14:11:33.141 [main] DynamicArray - index of item: 1
+[DEBUG] 2017-12-08 14:11:33.141 [main] DynamicArray - index of item: 2
+[DEBUG] 2017-12-08 14:11:33.141 [main] DynamicArray - Removed: 1.0
+[DEBUG] 2017-12-08 14:11:33.141 [main] DynamicArray - Removed(): 1.0
+[DEBUG] 2017-12-08 14:11:33.142 [main] DynamicArray - In push(): obj -> 1.0
+[DEBUG] 2017-12-08 14:11:33.142 [main] DynamicArray - Size is beyond capacity in push, incrementing capacity...
+[DEBUG] 2017-12-08 14:11:33.142 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:11:33.142 [main] DynamicArray - In element()
+[DEBUG] 2017-12-08 14:11:33.142 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:11:33.143 [main] DynamicArray - Start pointer: -1
+[DEBUG] 2017-12-08 14:11:33.143 [main] DynamicArray - In remove(int positon): position ->0
+[DEBUG] 2017-12-08 14:11:33.143 [main] DynamicArray - index of item: 1
+[DEBUG] 2017-12-08 14:11:33.143 [main] DynamicArray - Removed: 3.0
+[DEBUG] 2017-12-08 14:11:33.143 [main] DynamicArray - Removed(): 3.0
+[DEBUG] 2017-12-08 14:11:33.143 [main] DynamicArray - In push(): obj -> 3.0
+[DEBUG] 2017-12-08 14:11:33.143 [main] DynamicArray - Size is beyond capacity in push, incrementing capacity...
+[DEBUG] 2017-12-08 14:11:33.144 [main] DynamicArray - In push()
+[DEBUG] 2017-12-08 14:11:33.144 [main] DynamicArray - In element()
+[DEBUG] 2017-12-08 14:11:33.144 [main] DynamicArray - In pop()
+[DEBUG] 2017-12-08 14:11:33.144 [main] DynamicArray - In remove(int positon): position ->1
+[DEBUG] 2017-12-08 14:11:33.144 [main] DynamicArray - index of item: 0
+[DEBUG] 2017-12-08 14:11:33.144 [main] DynamicArray - Removed: 3.0
+[DEBUG] 2017-12-08 14:11:33.144 [main] DynamicArray - In pop()
+[DEBUG] 2017-12-08 14:11:33.145 [main] DynamicArray - In remove(int positon): position ->0
+[DEBUG] 2017-12-08 14:11:33.145 [main] DynamicArray - Removed: 1.0
+[DEBUG] 2017-12-08 14:11:33.145 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:11:33.145 [main] DynamicArray - Start pointer: -1
+[DEBUG] 2017-12-08 14:11:33.145 [main] DynamicArray - In remove(int positon): position ->0
+[DEBUG] 2017-12-08 14:11:33.145 [main] DynamicArray - Removed: +
+[DEBUG] 2017-12-08 14:11:33.145 [main] DynamicArray - Removed(): +
+[DEBUG] 2017-12-08 14:11:33.145 [main] Evaluator - Expression evaluated: 3.01.0+
+[DEBUG] 2017-12-08 14:11:33.146 [main] Evaluator - Evaluated Result: 4.0
+[DEBUG] 2017-12-08 14:11:33.146 [main] DynamicArray - In DynamicArray constructor with capacity
+[DEBUG] 2017-12-08 14:11:33.146 [main] DynamicArray - In DynamicArray constructor with T[] arr
+[DEBUG] 2017-12-08 14:11:33.146 [main] DynamicArray - In add(): obj -> 4.0
+[DEBUG] 2017-12-08 14:11:33.146 [main] DynamicArray - Add succeeded!
+[DEBUG] 2017-12-08 14:11:33.146 [main] DynamicArray - In remove()
+[DEBUG] 2017-12-08 14:11:33.146 [main] DynamicArray - Start pointer: -1
+[DEBUG] 2017-12-08 14:11:33.146 [main] DynamicArray - In remove(int positon): position ->0
+[DEBUG] 2017-12-08 14:11:33.146 [main] DynamicArray - Removed: 4.0
+[DEBUG] 2017-12-08 14:11:33.146 [main] DynamicArray - Removed(): 4.0
